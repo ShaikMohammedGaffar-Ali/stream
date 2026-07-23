@@ -1,0 +1,3126 @@
+{
+  "title": "manageSubscription",
+  "chnldata": {},
+  "index": {
+    "analytics": {
+      "lineOfBusiness": "general"
+    },
+    "seo": {
+      "twittercard": "summary",
+      "metaRobots": "INDEX,FOLLOW"
+    },
+    "pageinfo": {
+      "lineOfBusiness": "general"
+    },
+    "disableAuxNav": false,
+    "disableGNav": false,
+    "disableLinkFarm": false,
+    "disableSkinnyGNav": false,
+    "isV2GNav": false,
+    "isV2Footer": false,
+    "isV2LinkFarm": false,
+    "disableTFN": false,
+    "disableBusinessLink": false,
+    "helpCenterInfoLabel": "Call us: ",
+    "CustomerCareNum": "8553836121",
+    "CustomerCareNumLabel": "855.383.6121",
+    "arsFee": "",
+    "disableStrikeThruPricing": false,
+    "disableCheckoutTFN": false,
+    "isBreadcrumbPostionTop": false,
+    "showPromoInCart": false,
+    "disableBBBanner": false,
+    "disableSaveCart": false,
+    "disableOfferBanner": false,
+    "isDoubleBreadcrumbNeeded": false
+  },
+  ":items": {
+    "page": {
+      "title": "page",
+      "elements": {
+        "title": "Manage TV Package | DIRECTV"
+      }
+    },
+    "pageSubHeaders": {
+      "title": "pageSubHeaders",
+      "elements": {
+        "tltCloudDVR": "Cloud DVR",
+        "tltMiniPackage": "Mini Packs",
+        "tltBasePackage": "Base packs",
+        "tltAvailable": "Available packages",
+        "tltCurrentSub": "Current TV subscription",
+        "tltAddOn": "Add-ons",
+        "tltAddonPkgndAddons": "Manage packages and add-ons"
+      }
+    },
+    "chargeInfo": {
+      "title": "chargeInfo",
+      "elements": {
+        "txtPaypalForBre": "Your charges start on the day you activate your service on your TV or on [[AUTOPAY_DATE]], whichever comes first. We'll auto-charge your PayPal account.",
+        "txtPaypal": "Your subscription auto-charges on [[AUTOPAY_DATE]] at 7 p.m. ET. We'll charge [[AUTOPAY_AMOUNT]] to your PayPal account.",
+        "txtRoku": "Your subscription auto-charges by Roku on [[DATE]].",
+        "txtGooglePlay": "Your subscription auto-charges by Google Play on [[DATE]].",
+        "txtCardForBre": "Your charges start on the day you activate your service on your TV or on [[AUTOPAY_DATE]], whichever comes first. We'll auto-charge your [[CARD_TYPE]] card ending in [[CARD_NUMBER]].",
+        "txtCard": "Your account will auto-charge [[AUTOPAY_AMOUNT]] + tax on [[AUTOPAY_DATE]] to your [[CARD_TYPE]] ending in [[CARD_NUMBER]].",
+        "txtNoCharge": "Great news! You do not have any upcoming charges.Your package is included at no cost to you.",
+        "txtAmazon": "Your subscription auto-charges by Amazon on [[DATE]]."
+      }
+    },
+    "chargeHistory": {
+      "title": "chargeHistory",
+      "elements": {
+        "lblDescription": "See charges & payments",
+        "lnkRedirect": "/payment"
+      }
+    },
+    "discounts": {
+      "title": "discounts",
+      "elements": {
+        "lblDescription": "See my discounts"
+      }
+    },
+    "cancel": {
+      "title": "cancel",
+      "elements": {
+        "cancel": "Cancel my subscription",
+        "errorCancelBbtv": "Service cannot be processed at this time. Please try again later.",
+        "lnkCancel": "/cancel"
+      }
+    },
+    "compare": {
+      "title": "compare1",
+      "elements": {
+        "lblDescription": "Compare channel lineups"
+      }
+    },
+    "bannerMessage": {
+      "title": "bannerMessage",
+      "elements": {
+        "seasonPassAutoRenewalRemovalBannerMsg": "Yes! You removed auto-renewal for the next season of your [displayName]",
+        "seasonPassAutoRenewalAdditionBannerMsg": "Yes! You added auto-renewal for the next season of your [displayName]",
+        "autoRenewOffSeasonRemoveMsg": "Yes! You removed auto-renewal for the next season of your [displayName]. Remember, when the [displayName] next season starts, you will need to add it manually.",
+
+        "txtPackageChangeOnPause": "[[PACKAGE]] [[addOn]] will be available when your service pause ends on [[nextBillingDateTemp]].",
+        "appleMLSAutoRenewOffSeasonRemoveMsg": "Yes! You removed auto-renewal for the next season of your MLS Season Pass. Remember, when the MLS Season Pass next season starts, you will need to add it manually.",
+        "txtEligibleForCredit": "You may be eligible for credit on extras*.",
+        "txtAddOnApplyTv": "Congratulations! You’ve added Apple TV+. Check your email to register and start watching.",
+        "txtBannerUpgrade": "Your new [[PACKAGE]][[addOn]] starts today.",
+        "txtSubContentTVNow": " ",
+        "txtPremiumDowngrade": "You can continue to enjoy [[PREMIUM_CHANNEL]] until [[DATE]] when your subscription auto-renews.",
+        "txtPromotionAppliedSuccess": "Your promotions have been successfully applied.",
+        "nbaAutoRenewRemoveMsg": "Yes! You removed auto-renewal for the next season of your NBA League Pass Premium",
+        "txtSVODChangeOnPause": "Congratulations! You’ve added [[PACKAGE]] [[addOn]]. You’ll get an email to register and start watching when your service pause ends on [[nextBillingDateTemp]].",
+        "txtSuccess": "All set we made your changes!",
+        "txtAddOnPeacock": "Congratulations! You’ve added Peacock. Check your email to register and start watching.",
+        "txtLongDescriptionTVNow": "You're saving with a Video Loyalty Credit as thanks for being a loyal customer. To get the Credit, your account must stay active (no pause or suspensions) and meet all the terms and conditions. For complete details call <a href=\"tel:8005315000\">800.531.5000</a>.",
+        "txtSVODChangeOnPauseWithPromo": "Congratulations! You’ve added [[PACKAGE]] [[addOn]]. Your promotions have been successfully applied. You’ll get an email to register and start watching when your service pause ends on [[nextBillingDateTemp]].",
+        "appleMLSAutoRenewRemoveMsg": "Yes! You removed auto-renewal for the next season of your MLS Season Pass",
+        "appleMLSAutoRenewAddMsg": "Yes! You added auto-renewal for the next season of your MLS Season Pass",
+        "txtAddOnsRemovedOnPause": "[[addOn]] was successfully removed. ",
+        "txtRemoveSwimlaneUpdatePackage": "Your new pkg [[PACKAGE]] will begin on [[nextBillingDateTemp]]. NBA League Pass is set to not auto renew for the upcoming season.",
+        "txtAddOnMessageBillTag": "Your new [addOn] starts today,",
+        "txtRemovedAddOn": "Your updates to [[addOn]] are effective on [[nextBillingDateTemp]] when your subscription auto-renews.",
+        "txtBannerDowngrade": "Your updates to [[PACKAGE]][[addOn]] are effective on [[nextBillingDateTemp]] when your subscription auto-renews.",
+        "txtAddOnMessage": "Congratulations! You’ve added [addOn]. ",
+        "txtAddOnNetflix": "Congratulations! You’ve added Netflix Premium. Check your email to activate and start watching.",
+        "txtWaitTime": "It may take up to 4 hours for your subscription to update.",
+        "txtPeacockUpgradeMessage": "Check your email to register your account directly with [addOn] so you can start watching.",
+        "txtEffectiveDate": "Your updates will be effective on [[nextBillingDateTemp]] when your subscription auto-renews.",
+        "txtNetfixSubscriptionRemovedAddOn": "You’ve successfully removed [[addOn]]. You can continue watching until [[nextBillingDateTemp]].",
+        "txtSubscriptionRemovedAddOn": "You canceled your [[addOn]] subscription. You can keep watching [[addOn]] until [[nextBillingDateTemp]]. You won’t be billed for [[addOn]] again.",
+        "nbaAutoRenewAddMsg": "Yes! You added auto-renewal for the next season of your NBA League Pass Premium",
+        "nbaAutoRenewOffSeasonRemoveMsg": "Yes! You removed auto-renewal for the next season of your NBA League Pass Premium. Remember, when the NBA next season starts, you will need to add it manually. ",
+        "txtKeepSwimlaneUpdatePackage": "Your new pkg [[PACKAGE]] will begin on [[nextBillingDateTemp]]. NBA League Pass is set to auto renew for the upcoming season.",
+        "txtNewContentAvailability": "Some channel updates take several minutes to become available on your TV. If you don't see them, restart your DIRECTV device or app."
+      }
+    },
+    "currentSubCard": {
+      "title": "currentSubCard",
+      "elements": {
+        "txtEndDate": "Service ends:",
+        "tltOwnedAddOns": "My add-ons",
+        "txtSubPrice": "/mo"
+      }
+    },
+    "addOnTabs": {
+      "title": "addOnTabs",
+      "elements": {
+        "tltPremium": "Premium networks",
+        "tltInternational": "International",
+        "tltSports": "Sports"
+      }
+    },
+    "reviewChanges": {
+      "title": "reviewChanges",
+      "elements": {
+        "ctaCancel": "Cancel",
+        "review": {
+          "ctaButton": "Review changes",
+          "lnkButton": "/reviewChanges"
+        }
+      }
+    },
+    "cloudDVRAndAddOns": {
+      "title": "cloudDVRAndAddOns",
+      "elements": {
+        "txtPromoPriceEnds": "Promo price ends [[DATE]]",
+        "ctaAdding": "ADDING",
+        "txtmo": "/mo.",
+        "ctaAdd": "ADD",
+        "txtEndDate": "Service ends:",
+        "ownedAddOnText": "I have this",
+        "ctaSwitchTo": "SWITCH",
+        "txtEnds": "Ends ",
+        "cloudDVR": {
+          "elements": {
+            "txtUnlimitedCloudDVREnds": " Unlimited hours of Cloud DVR included ends [[DATE]]",
+            "txtFyiCloudDVREDSP": "FYI: You get 20 hours of Cloud DVR storage with your DIRECTV subscription for no extra charge.",
+            "txtIncluded": "Included",
+            "txtNewMonthlyCharges": "You’re keeping this &amp; won’t lose any recordings. We’ve already included the $10 cost in your new monthly charges."
+          },
+          "title": "cloudDVR"
+        },
+        "txtimageURL": "/dtvassets/images/service/dtvn/logos/att-tv/",
+        "txtStartDate": "Service starts",
+        "txtChargesStart": "Charges starts",
+        "txtPng": ".png",
+        "txtAcctManagement": "Account Management",
+        "txtWillEndOn": "Will end on ",
+        "txtZero": "0",
+        "ctaRemoving": "REMOVING",
+        "ctaRemove": "REMOVE",
+        "addOn": {
+          "elements": {
+            "nbaRenewMsg": "Automatic renewal for future seasons",
+            "txtGetOffer": "Nice choice. You'll get ",
+            "txtPromoEnds": "Promo ends",
+            "netflixWatchLink": "https://www.netflix.com",
+            "txtIncluded": "Included in promo",
+            "ctaWatchNow": "Watch now",
+            "ctaRegister": "Register to watch",
+            "ctaActivate": "Activate now",
+            "txtMonthsIncluded": "MONTHS INCLUDED",
+            "txtPremiumChannel": "This premium channel is included in your base package. If you want to remove it, you’ll have to change your base package.",
+            "txtIncludedBasePackage": "Included in base package",
+            "ctaSeeDetails": "See what you get",
+            "txtPauseRemoveMsg": "Service starts [[PAUSE_END_DATE]].",
+            "txtPrice": "/mo",
+            "peacockWatchLink": "https://www.peacocktv.com/watch",
+            "txtSplOffer": "SPECIAL OFFER"
+          },
+          "title": "addOn"
+        },
+        "ctaUndo": "UNDO",
+        "txtSeeMore": "See more",
+        "ctaSelectedButton": "SELECTED",
+        "txtStarts": "Starts ",
+        "ctaSwitching": "SWITCHING TO",
+        "txtEndsService": " Ends",
+        "txtDollar": "$",
+        "ctaRemoved": "REMOVED",
+        "freePromoBadge": {
+          "elements": {
+            "months": "MONTHS",
+            "days": "DAYS",
+            "included": "INCLUDED",
+            "years": "YEARS"
+          }
+        },
+        "txtPrice": "/mo"
+      }
+    },
+    "sharedPackageInfo": {
+      "title": "sharedPackageInfo",
+      "elements": {
+        "txtSeeAllChannel": "See all channels",
+        "ctaAdding": "ADDING",
+        "txtMo": "MO*",
+        "txtSpecialCharacter1": "*",
+        "txtStartDatePause": "You’ve chosen the [[PACKAGE]] package to begin when your service pause ends. ",
+        "ctaAdd": "ADD",
+        "txtEndDate": "Ends ",
+        "txtProgramming": "Programming subject to change.",
+        "ctaSelectedButton": "SELECTED",
+        "catalogInfo": {
+          "STND-BRAZIL-201804": {
+            "displayOrder": "30",
+            "description": "<ul><li>An unmatched selection of dramas, variety shows, news, and sports from Brazil's top networks.</li><li>Enjoy drama, sports, and more you can't get from any other provider.</li></ul>",
+            "tabType": "International"
+          },
+          "BRIDGE-ENTTOULT-202204": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Ultimate.png",
+            "css": "blue",
+            "header": "SPORTS, NEWS, MOVIES",
+            "description": "<ul><li>An outstanding package featuring popular programming channels, Regional Sports Networks, music, national sports, and entertainment networks.</li></ul>"
+          },
+          "BOLT-HBO-201610": {
+            "image": "/assets/content/j6akd76q4v/svg/Channel-Icon-HBOmax-100x100.svg",
+            "imageUrl": "/dtvassets/sales/directv/logos/add-ons/max-horiz-k.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "STND-KOREA-201804": {
+            "displayOrder": "40",
+            "description": "<ul><li>Top-rated entertainment and news from Korea.</li><li>The ultimate add-on packages with the best variety of Korean programming.</li></ul>",
+            "tabType": "International"
+          },
+          "BOLT-DEPORTES-201802": {
+            "displayOrder": "10",
+            "tabType": "International"
+          },
+          "BOLTNOW-SHOW-201810": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime-k.svg",
+            "displayOrder": "50",
+            "tabType": "Premium"
+          },
+          "BOLT-NBALP-201912": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/nbaleaguepass-vert-c.svg",
+            "displayOrder": "10",
+            "tabType": "Sports"
+          },
+          "BOLT-LIFETIME-201910": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/lifetimemovieclub2-c.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BASE-MAX-2018": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/cinemax-k.svg",
+            "displayOrder": "40",
+            "description": "<ul><li>Everything PLUS has, HBO Max, Cinemax, Viacom channels CMT, Paramount, TV Land and more!</li><li>Regional Sports Networks and more national sports channels like CBS Sports Network, ESPNews, ESPNU, Fox Sports 2, Golf Channel, and Olympic Channel.</li></ul>",
+            "tabType": "Premium"
+          },
+          "BOLT-SHOWTIME-201707": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime-k.svg",
+            "displayOrder": "50",
+            "tabType": "Premium"
+          },
+          "BOLT-MVPX-201910": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/moviesextrapack-k.svg",
+            "displayOrder": "80",
+            "tabType": "Premium"
+          },
+          "STANDNOW-JUPSHO-201804": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime-k.svg",
+            "displayOrder": "50",
+            "tabType": "Premium"
+          },
+          "BOLT-SPACK2-202209": {
+            "image": "/dtvassets/sales/directv/logos/channel-logos/SportsPack.svg",
+            "tabType": "Sports"
+          },
+          "BASE-LIVEALITTLE-201610": {
+            "displayName": "Live a Little",
+            "header": "LIVEALITTLE",
+            "description": "<ul><li>Channels for all, including news and entertainment networks, basic sports networks, and popular broadcast channels.</li><li>A perfect and affordable package for fans of casual sports, kid-friendly entertainment, news, music, and lifestyle programming.</li></ul>"
+          },
+          "BRIDGE-ENTTOPREM-202204": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Premier_LogosMaxPara.svg",
+            "css": "darkBlue",
+            "header": "THE ONE WITH THE MOST",
+            "description": "<ul><li>Includes Sports Pack.</li><li>Includes HBO, STARZ, Paramount+ with SHOWTIME, CINEMAX, and Hallmark Movies &amp; Mysteries.</li><li>HBO Max at no extra cost!</li></ul>"
+          },
+          "PROMO-EMPEPIX-202007": {
+            "image": "/dtvassets/sales/pcp/logos/epix.rgb.png",
+            "displayOrder": "20",
+            "tabType": "Premium"
+          },
+          "BOLTNOW-STZ-201810": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/starz-k.svg",
+            "displayOrder": "60",
+            "tabType": "Premium"
+          },
+          "BOLT-ENESPANOL-201802": {
+            "displayOrder": "20",
+            "tabType": "International"
+          },
+          "BASE-OPTIMOMAS-122018": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Optimomas.png",
+            "displayName": "OPTIMO M&Aacute;S",
+            "header": "SPORTS, NEWS, MOVIES",
+            "description": "<ul><li>Some of the most popular Spanish-language and English-language programming channels for the whole family, with more news, entertainment, sports, and music.</li><li>Includes movies, national sports networks, and family-friendly programming.</li></ul>"
+          },
+          "BASE-JUSTRIGHT-201610": {
+            "displayName": "Just Right",
+            "description": "<ul><li>Variety package with a wide selection of entertainment channels for the whole household.</li><li>Includes movies, Regional Sports Networks (RSNs), national sports networks, music, and family programming.</li></ul>"
+          },
+          "BOLT-HISTORY-202310": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/historyvault-c.png",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BOLT-EPIX-201907": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/mgmplus-k.svg",
+            "displayOrder": "70",
+            "tabType": "Premium"
+          },
+          "BOLT-ALLBLK-202222": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/allblk-c.svg",
+            "displayOrder": "40",
+            "tabType": "Premium"
+          },
+          "BOLT-BETPLUS-202401": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/BETplus-horiz-c.svg",
+            "displayOrder": "135",
+            "tabType": "Premium"
+          },
+          "BOLT-FOXN-202222": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/foxnation-c.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BOLT-SPACK-202222": {
+            "image": "/dtvassets/sales/directv/logos/channel-logos/SportsPack.svg",
+            "displayOrder": "60",
+            "tabType": "Sports"
+          },
+          "BASE-ENTERTAINMENT-201811": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Entertainment.png",
+            "css": "lightBlue",
+            "header": "THE ESSENTIALS",
+            "description": "<ul><li>Channels for all, including news and entertainment networks, basic sports networks, and popular broadcast channels.</li><li>A perfect and affordable package for fans of casual sports, kid-friendly entertainment, news, music, and lifestyle programming.</li></ul>"
+          },
+          "BASE-XTRA-201811": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Xtra.png",
+            "header": "XTRA",
+            "description": "<ul><li>Includes the best in movies, sports, music, series, documentaries, educational shows, specialty programming, and Regional Sports Networks (RSNs). </li><li>Has most of the channels from CHOICE package, plus hard-to-find favorites.</li></ul>"
+          },
+          "BOLT-CDVRINCL-201710": {
+            "longDescription": "<p>Record a little</p> <ul> <li> This week&apos;s game</li> <li>One season of a show</li> <li> The movie that&apos;s not on demand</li> </ul>",
+            "packageCategory": "Bolt-on",
+            "longDescriptionForSales": "Keep recordings for 90 days",
+            "displayName": "20 Hours of Cloud DVR",
+            "displayOrder": 0,
+            "description": "20 Hours of Cloud DVR",
+            "shortDescription": "20 Hours of Cloud DVR",
+            "packageType": "Bolt-on",
+            "includedWithService": false,
+            "basicService": false,
+            "expiryDate": "12-30-9999",
+            "rateType": "Retail Price",
+            "descriptionForSales": "20 Hours  <br> 90 Days expiration##Record 20 hours||Keep recordings 90 days",
+            "displayType": "included",
+            "displayNameForSales": "20 Hours of Cloud DVR",
+            "serviceId": "BOLT-CDVRINCL-201710",
+            "retailPrice": 0,
+            "planPrice": 0,
+            "status": "Active"
+          },
+          "BRIDGE-ENTTOCHO-202204": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Choice.png",
+            "css": "orange",
+            "header": "MUST-HAVE SPORTS & MORE",
+            "description": "<ul><li>Variety package with a wide selection of entertainment channels for the whole household.</li><li>Includes movies, Regional Sports Networks, national sports networks, music, and family programming.</li></ul>"
+          },
+          "BOLT-NETFLIXPRE-202304": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/netflix-c.svg",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "BOLT-STARZ-201610": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/starz-k.svg",
+            "displayOrder": "60",
+            "tabType": "Premium"
+          },
+          "BOLT-2STREAMS-201710": {
+            "longDescription": "Watch TV on any 2 devices at the same time.",
+            "packageCategory": "Bolt-on",
+            "displayOrder": 0,
+            "description": "Watch live TV on two devices at the same time - on the couch  on the go  anywhere.",
+            "packageType": "Bolt-on",
+            "includedWithService": false,
+            "basicService": false,
+            "rateType": "Retail Price",
+            "descriptionForSales": "Watch live TV on two devices at the same time - on the couch  on the go  anywhere.",
+            "displayType": "included",
+            "displayNameForSales": "2 streams",
+            "serviceId": "BOLT-2STREAMS-201710",
+            "retailPrice": 0,
+            "planPrice": 0,
+            "status": "Active"
+          },
+          "BASE-GOBIG-201610": {
+            "description": "<ul><li>Includes the best in movies, sports, music, series, documentaries, educational shows, specialty programming, and Regional Sports Networks (RSNs).</li><li>Has most of the channels from JUST RIGHT package, plus hard-to-find favorites.</li></ul>"
+          },
+          "BOLT-DISCOVERY-202208": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/discoveryplus-ck.png",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "BASE-PLUSWOHBO-2020": {
+            "displayName": "PLUS",
+            "header": "PLUS",
+            "description": "<ul><li>Watch live, on demand, or on your cloud-based DVR**. Also 23,000 videos are available On Demand!</li><li>Includes locals, sports, news, popular channels like ESPN, CNN, Fox News, Disney Jr., TNT, Hallmark Channel, Bravo, Viacom channels BET, Comedy Central, MTV, Nickelodeon.</li></ul>"
+          },
+          "BASE-PLUS-2018": {
+            "description": "<ul><li>Watch live, on demand, or on your cloud-based DVR**. Also 23,000 videos are available On Demand!</li><li>Includes HBO, locals, sports, news, popular channels like ESPN, CNN, Fox News, Disney Jr., TNT, Hallmark Channel, Bravo, Viacom channels BET, Comedy Central, MTV, Nickelodeon.</li><ul>"
+          },
+          "BASE-OMG-201610": {
+            "description": "<ul><li>An outstanding package featuring popular programming channels, Regional Sports Networks, music, national sports, and entertainment networks.</li><li>Includes SundanceTV, commercial-free movie channels, and STARZ ENCORE channels.</li><ul>"
+          },
+          "BRIDGE-CHOTOULT-202204": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Ultimate.png",
+            "css": "blue",
+            "header": "SPORTS, NEWS, MOVIES",
+            "description": "<ul><li>Includes Sports Pack.</li><li>Includes SundanceTV, commercial-free movie channels, and STARZ ENCORE channels.</li></ul>"
+          },
+          "MLS_BOLTON": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/appletv_mls-k.svg",
+            "tabType": "Sports"
+          },
+          "BASE-TODOYMAS-201802": {
+            "description": "<ul><li>Some of the most popular Spanish-language and English-language programming channels for the whole family, with more news, entertainment, sports, and music.</li><li>Includes movies, national sports networks, and family-friendly programming.</li></ul>"
+          },
+          "BOLT-MLSSP-202410": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/appletv_mls-k.svg",
+            "tabType": "Sports"
+          },
+          "BOLT-HALLMARK-202310": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/Hallmark-c.svg",
+            "displayOrder": "140",
+            "tabType": "Premium"
+          },
+          "STND-VIETNAM-201804": {
+            "displayOrder": "50",
+            "description": "<ul><li>The hottest Vietnamese programming is available with DIRECTV.</li><li>Enjoy the best entertainment, talk shows, and more from Vietnam.</li></ul>",
+            "tabType": "International"
+          },
+          "STANDNOW-JUPSTZ-201804": {
+            "image": "/dtvassets/sales/pcp/logos/starz.svg",
+            "displayOrder": "60",
+            "tabType": "Premium"
+          },
+          "BOLT-AECRIME-202401": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/aecc-horiz-c.svg",
+            "tabType": "Premium"
+          },
+          "BOLT-HBOCMX-202204": {
+            "image": "/dtvassets/global/logos/hbomax/lockups/max-cinemax.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BRIDGE-CHOTOPREM-202204": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Premier_LogosMaxPara.svg",
+            "css": "darkBlue",
+            "header": "THE ONE WITH THE MOST",
+            "description": "<ul><li>Includes Sports Pack.</li><li>Includes HBO, STARZ, SHOWTIME, CINEMAX, and Hallmark Movies &amp; Mysteries.</li><li>HBO Max at no extra cost!</li></ul>"
+          },
+          "PROMO-HBOSKINNY-201703": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/hbomax-horiz-k.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BOLT-CINEMAX-201610": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/cinemax-k.svg",
+            "displayOrder": "40",
+            "tabType": "Premium"
+          },
+          "PROMO-FREEHBO-201703": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/hbomax-horiz-k.svg",
+            "displayOrder": "10",
+            "tabType": "Premium"
+          },
+          "BOLT-ACORNTV-202401": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/acorntv-c.svg",
+            "displayOrder": "130",
+            "tabType": "Premium"
+          },
+          "BOLT-AMC-202106": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/amcplus-c.svg",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "BOLT-PEACOCKPRE-202208": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/peacock-ck.svg",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "BASE-ULTIMATE-201811": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Ultimate.png",
+            "css": "blue",
+            "header": "SPORTS, NEWS, MOVIES",
+            "description": "<ul><li>An outstanding package featuring popular programming channels, Regional Sports Networks, music, national sports, and entertainment networks.</li></ul>"
+          },
+          "BOLTNOW-HBO-201810": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/hbomax-horiz-k.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "STANDNOW-JUPMAX-201804": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/cinemax-k.svg",
+            "displayOrder": "40",
+            "tabType": "Premium"
+          },
+          "BRIDGE-ULTTOPREM-202204": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Premier_LogosMaxPara.svg",
+            "css": "darkBlue",
+            "header": "THE ONE WITH THE MOST",
+            "description": "<ul><li>Includes Sports Pack.</li><li>Includes HBO, STARZ, SHOWTIME, CINEMAX, and Hallmark Movies &amp; Mysteries.</li><li>HBO Max at no extra cost!</li></ul>"
+          },
+          "BASE-PREMIER-202004": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Premier_LogosMaxPara.svg",
+            "css": "darkBlue",
+            "header": "THE ONE WITH THE MOST",
+            "description": "<ul><li>A top-of-the-line entertainment package. </li><li>Includes HBO, STARZ, Paramount+ with SHOWTIME, CINEMAX, Hallmark Movies &amp; Mysteries, and SPORTS PACK channels.</li><li>HBO Max app at no extra cost!</li></ul>"
+          },
+          "STANDNOW-JUPHBO-201804": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/hbomax-horiz-k.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BASE-CHOICE-201811": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Choice.png",
+            "css": "orange",
+            "header": "MUST-HAVE SPORTS & MORE",
+            "description": "<ul><li>Variety package with a wide selection of entertainment channels for the whole household.</li><li>Includes movies, Regional Sports Networks, national sports networks, music, and family programming.</li></ul>"
+          }
+        },
+        "ctaSwitching": "SWITCHING TO",
+        "ctaSeeDetails": "SEE DETAILS",
+        "txtDollar": "$",
+        "ctaRemoved": "REMOVED",
+        "ctaSwitch": "SWITCH",
+        "txtTax": "+ tax & fees",
+        "txtPrice": "/mo",
+        "txtStartDate": "Starts ",
+        "ctaSwitchToButton": "SWITCH",
+        "txtPriceIncludeCloudDvr": "Price includes unlimited hours of Cloud DVR for $10/mo.",
+        "ctaRemoving": "REMOVING",
+        "ctaRemove": "REMOVE",
+        "txtAnnualContract": "No annual contract",
+        "txtSuggestionMatch": "Suggested match"
+      }
+    },
+    "sharedPackageDialogs": {
+      "title": "sharedPackageDialogs",
+      "elements": {
+        "mepBundleDialog": {
+          "headerContent": "Don't want [[addOn]] for $[[price]]/mo.?",
+          "subContent": "You can still:",
+          "keepButton": "Keep [[addOn]] ($[[price]])",
+          "RemoveButton": "Remove [[addOn]]"
+        },
+        "cancelSwimlaneTransitionSuccessDialog": {
+          "ctaCancel": "CANCEL",
+          "txtDialogContent": "What do you want to do?",
+          "ctaContinue": "CONTINUE",
+          "tltDialogGotIt": "Got it!",
+          "ctaClose": "CLOSE",
+          "tltDialogConfirmation": "Just so you know..."
+        },
+        "PromotionRetentionDialog": {
+          "ctaCancel": "No, thanks",
+          "ctaSave": "SAVE",
+          "txtDialogContent": "Enjoy the channels you love for less. Check out this special offer,",
+          "tltDialog": "Keep the entertainment - ditch the price!",
+          "ctaGetOffer": "Get Offer",
+          "tltDialogOne": "Keep your subscription and continue to enjoy the channels you love!  Take another look with this special offer.",
+          "mepSaveOfferContent": "Have you considered switching to Movies Extra Pack Original? You can continue enjoying your favorite movies and TV shows for only $[[price]]/mo."
+        },
+        "PackageDetailsDialog": {
+          "lblDescriptionSeeDetails": "See details",
+          "txtStarting": "Starting at",
+          "lblDescriptionCancelPolicy": "cancellation policy",
+          "txtTaxes": "Plus taxes.",
+          "txtContent": {
+            "txtBestLabel": "<b>AT&amp;T TV requires high speed internet. Minimum internet speed of 8Mbps per stream recommended for optimal viewing. Limit 3 concurrent out-of-home streams</b>",
+            "attIntellectualProperty": "<p>©2021 AT&amp;T Intellectual Property. All rights reserved. AT&amp;T, the AT&amp;T logo, and all other AT&amp;T marks contained herein are trademarks of AT&amp;T.</p>",
+            "edspPricing": "<b><u>AT&T TV Pricing:</u></b> $69.99/mo. for ENTERTAINMENT Pkg; $84.99/mo. for CHOICE Pkg; $94.99/mo. for ULTIMATE Pkg; $139.99/mo. for PREMIER Pkg. Internet billed separately.",
+            "AttTV": "<b><u>AT&amp;T TV:</u></b> Compatible device req’d. Residential U.S. customers only (excludes Puerto Rico and U.S. Virgin Islands). Your AT&amp;T TV service renews monthly at the prevailing rate, charged to your payment method on file unless you cancel. Once you’ve canceled, you can access AT&amp;T TV through the remaining monthly period. New customers who cancel service in the first 14 days will receive a full refund. <b>Otherwise, no refunds or credits for any partial-month periods or unwatched content.</b>",
+            "attTvDevice": "<b><u>AT&amp;T TV Device:</u> AT&amp;T TV device for well-qualified customers $5/mo. each for 24/mos. on 0% APR installment agreement; otherwise $120 each. Non-qualified customers must purchase devices up front.</b> Purchased devices may be returned within 14 days for a full refund. Devices purchased on installment agreement subject to additional terms and conditions. See cancellation policy at <a href=\"https://www.att.com/help/cancellation-policy-att-tv/\" target=\"_blank\"> att.com/help/cancellation-policy-att-tv.html</a> for more details.",
+            "regionalSportsLocalChannels": "<b><u>Regional Sports &amp; Local Channels</u>:</b> Regional Sports included with CHOICE and above. Not available in select areas. Channels vary by package and billing region. Device may need to be in billing region in order to view. <b>Limits:</b> Limit 3 concurrent AT&amp;T streams per account. Some offers may not be available through all channels and in select areas. <b>Not available to DIRECTV and U-VERSE TV customers.</b> Programming subject to blackout restrictions. Subject to AT&amp;T TV Terms &amp; Conditions (see <a href=\"https://www.att.com/legal/att-tv.html\" target=\"_blank\">att.com/legal/att-tv.html</a>). <b>Pricing, channels, features, and terms are subject to change &amp; may be modified or discontinued at any time without notice.</b> See <a href=\"https://www.att.com/tv/\" target=\"_blank\">att.com/tv</a> for details<p></p>",
+            "HBOMax": "<p><b><u>HBO Max</u>:</b> Access HBO Max through HBO Max app or hbomax.com with your AT&amp;T log-in credentials. Compatible device or browser required. <b>Use of HBO Max is subject to its own terms and conditions, see hbomax.com/terms-of-use for details. Programming and content subject to change.</b> Upon cancellation of your video service you may lose access to HBO Max. <b><u>Limits</u>:</b> Access to one HBO Max account per AT&amp;T account holder. May not be stackable with other offers, credits or discounts. To learn more, go to <a href=\"https://www.att.com/hbo-max/?source=ECMXHM0000000000U\" target=\"_blank\">att.com/hbomax.</a> HBO Max is only accessible in the U.S. and certain U.S. territories where a high-speed broadband connection is available. Minimum 3G connection is required for viewing on mobile devices.  HBO MAX is used under license.</p>",
+            "geographicService": "<p>Geographic and service restrictions apply to AT&amp;T Internet services. Not all speeds available in all areas. Call or go to <a href=\"https://www.att.com/internet/\" target=\"blank\">att.com/internet/</a> to see if you qualify.</p>",
+            "swimlaneEligiblePricing": "<b><u>AT&T TV Pricing:</u></b> $79.99/mo. for ENTERTAINMENT Pkg; $94.99/mo. for CHOICE Pkg; $104.99/mo. for ULTIMATE Pkg; $149.99/mo. for PREMIER Pkg. Internet billed separately."
+          }
+        },
+        "reviewUpdateProductDialogFusion": {
+          "BOLT-DISCOVERY-202208": {
+            "addContent": {
+              "txtDisclaimer1": "By subscribing, you will receive $2.00 off the price of your monthly DIRECTV bill. If you cancel your subscription to discovery+, your $2.00 discount to your monthly bill will stop.",
+              "txtDisclaimer2": ""
+            }
+          },
+          "BOLT-STARZ-201610": {
+            "addContent": {
+              "txtDisclaimer1": "",
+              "txtDisclaimer2": ""
+            }
+          },
+         "trialMsgPart1": "You can stream [[addonOnDisplayName]] after your free trial on [[freeTrialEndDate]].",
+          "trialMsgPart2": "If you add [[addonOnDisplayName]] today, you won’t be charged until then.",
+          "ctaContinue": "Continue to add",
+          "txtRemove": "Remove",
+          "txtRemovePeacockGA": "remove it [ADDON_NAME]",
+          "txtMonth": "/mo.",
+          "txtContinueAddPeacockGA": "continue to add [ADDON_NAME]",
+          "BOLT-AMC-202106": {
+            "addContent": {
+              "txtDisclaimer1": "PLEASE NOTE:",
+              "txtDisclaimer2": "By subscribing, you will receive $2.00 off the price of your monthly DIRECTV bill. If you cancel your subscription to AMC+, your $2.00 discount to your monthly bill will stop."
+            }
+          },
+          "txtCancelAddPeacockGA": "cancel add [ADDON_NAME]",
+          "BOLT-PEACOCKPRE-202208": {
+            "addContent": {
+              "txtDisclaimer3": "<br />By subscribing, you agree to <a href=\"https://www.peacocktv.com/terms\" target=\"_blank\">Peacock Premium Terms of Service</a> and <a href=\"https://www.peacocktv.com/privacy\" target=\"_blank\">Privacy Policy</a>. Subject to discontinuation, change, or cancellation at any time. U.S. only.",
+              "txtDisclaimer4": "<br>Watch Peacock Premium on the Peacock app or <a href=\"http://peacocktv.com/\" target=\"_blank\">peacocktv.com</a>.",
+              "txtDisclaimer1": "PLEASE NOTE: ",
+              "txtDisclaimer2": "<br/> Already have Peacock Premium? You’ll need to cancel your current account to get the discounted price for DIRECTV. Visit the <a href=\"https://www.peacocktv.com/help/article/directv\" target=\"_blank\">Peacock Help Center</a> for additional details."
+            },
+            "removeContent": {
+              "txtRemoveContent": "Once you cancel, you’ll still be able to watch Peacock until [[DATE]]. After that, you’ll no longer be able to watch and you won’t be billed for Peacock again."
+            }
+          },
+          "BOLT-MVPXPEACOCK-202506": {
+            "addContent": {
+              "txtDisclaimer3": "<br/>By subscribing, you agree to <a href=\"https://www.peacocktv.com/terms\" target=\"_blank\">Peacock Premium Terms of Service</a> and <a href=\"https://www.peacocktv.com/privacy\" target=\"_blank\">Privacy Policy</a>. Subject to discontinuation, change, or cancellation at any time. U.S. only.",
+              "txtDisclaimer4": "<br>Watch Peacock Premium on the Peacock app or <a href=\"http://peacocktv.com/\" target=\"_blank\">peacocktv.com</a>.",
+              "txtDisclaimer1": "PLEASE NOTE:",
+              "txtDisclaimer2": "<br/>Already have Peacock Premium? You’ll need to cancel your current account to get the discounted price for DIRECTV. Visit the <a href=\"https://www.peacocktv.com/help/article/directv\" target=\"_blank\">Peacock Help Center</a> for additional details."
+            }
+           },
+          "BOLT-APPLETV-202501": {
+            "addContent": {
+              "txtDisclaimer3": "<br />Existing Apple TV customers subscribing to Apple TV through DIRECTV must activate the new service to migrate billing to DIRECTV. You will receive separate information via email on how to activate your account.",
+              "txtDisclaimer2": "By selecting this offer, you agree to <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\">Apple Media Services Terms and Conditions</a> and <a href=\"https://www.apple.com/legal/privacy/en-ww/\" target=\"_blank\">Apple Privacy Policy</a>."
+            }
+          },
+          "txtCancelRemovePeacockGA": "cancel remove peacock premium",
+          "ctaCancel": "Cancel",
+          "ctaRemoveIt": "REMOVE IT",
+          "txtDiscoveryNote": "<p>By subscribing, you authorize DIRECTV to share your name, email address, and subscription status with discovery+ to message you about your subscription for up to 12 months after your subscription ends.&quot;,</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &quot;txtDiscoveryContent&quot;: &quot;Discovery+ is $4.99 per month, price subject to change. By subscribing, you will receive $2.00 off the price of your monthly bill. If you cancel your subscription to discovery+, your $2.00 discount to your monthly bill will stop. By subscribing, you agree you will be charged $4.99 for discovery+ on a monthly basis to your payment option on file, until you change or cancel discovery+. May only be accessed on internet-connected HD DVR, DIRECTV | Call 855.796.1459 to Stream Via Internet or Satellite , and the DIRECTV app. Subscription not valid for streaming using the discovery+ app or discovery+ | Stream 70,000+ Real-Life TV Episodes . Cancel service anytime by managing your subscription online. This offer is subject to discontinuation, change, or cancellation at any time.</p>\n",
+          "txtCloseRemovePeacockGA": "close remove peacock premium",
+          "txtCloseAddPeacockGA": "close add peacock premium",
+          "ctaKeepIt": "KEEP IT",
+          "txtDollar": "$",
+          "ctaClose": "CLOSE",
+          "BOLT-NETFLIXPRE-202304": {
+            "addContent": {
+              "txtDisclaimer1": "<p>By selecting this offer, you agree to <a href=\"https://help.netflix.com/legal/termsofuse/\" target=\"_blank\">Netflix Terms of Use</a> and <a href=\"https://www.directv.com/legal/netflix-bundle-offer-terms/\" target=\"_blank\">Netflix offer terms</a>. Once your purchase is complete, we’ll send you an email so you can activate your Netflix subscription and start streaming.</p>",
+              "txtDisclaimer2": "Live events are included with any Netflix plan and contain ads.",
+              "txtDisclaimer3": "<p><b>Existing Netflix customers</b> subscribing to Netflix through DIRECTV must also activate the new service to migrate billing to DIRECTV. You will receive an email with instructions on how to activate your Netflix subscription.</p>",
+              "txtDisclaimer4": "<p><b>When upgrading,</b> you’ll be charged a prorated amount for the days you have the higher plan during this billing cycle.</p>",
+              "txtDisclaimer5": "<p><b>When downgrading,</b> you'll continue to enjoy your current plan until the end of your billing cycle.<br />Price changes for your new plan will be reflected in your next bill.</p>",
+              "txtDisclaimer6": "<p>Watch Netflix on the Netflix app or at netflix.com.</p>",
+              "txtDisclaimer7": "<p>Want to learn more? Check out our <a href=\"https://www.directv.com/support/article/000097885/\" target=\"_blank\">Netflix FAQ</a>.</p>"
+            },
+            "removeContent": {
+              "txtRemoveContent": "Once you cancel, you’ll still be able to watch Netflix until [[DATE]]. After that, you’ll no longer be able to watch and you won’t be billed for Netflix again."
+            }
+          },
+          "BOLT-MVPX-201910":{
+            "addContent": {
+              "txtDisclaimer1": "",
+              "txtDisclaimer2": ""
+            }
+          },
+          "txtDisclaimer1": "PLEASE NOTE:",
+          "txtContent": "$2.99 offer price includes $2/mo. off of Peacock Premium reg. price (currently $4.99/mo.). By subscribing, you will be billed $2.99/mo. (subject to change) on a recurring basis which will be charged to the payment method on file. Subscription only valid for streaming using the Peacock app and <a>peacocktv.com</a>. You will receive separate information via email on how to register your account. Cancel service anytime by managing your DIRECTV STREAM subscription online. Existing Peacock Premium and Premium Plus subscribers will need to take additional steps to redeem; see <a></a>",
+          "txtTitle": "Are you sure?"
+        },
+        "cancelSubscriptionModal": {
+          "ctaCloseGotIt": "GOT IT",
+          "txtEarlyTerminationFee": "Pay an Early Termination Fee of $[[AMOUNT]] (plus taxes)—we’ll auto-charge your payment method on [[DATE]].",
+          "revisedContent": {
+            "numberToCall": "800.531.5000",
+            "sectionIntroText": "Before you go, here’s what you need to know:",
+            "currentPackageText": "Your TV package, add-ons, special offers, discounts, and any promo credits will be canceled.",
+            "gotItCta": "GOT IT",
+            "earlyTerminationFeeText": "Your final bill will include an early termination fee of $[[AMOUNT]] on your 24-month contract.",
+            "cancelByPhonetxt2": "After sharing offers, the agent will be happy to complete your cancellation over the phone.",
+            "cancelByPhonetxt1": "If you're interested in hearing special offers, call us at",
+            "installmentPayOffText": "Your final bill will include $[[AMOUNT]] for installment payments due on device(s).",
+            "requestProcessTimeText": "Your cancellation won’t be final until we send you a confirmation via email",
+            "returnForRefundText": "You’re eligible to return your device for a refund.",
+            "keepMyServiceCTA": "KEEP MY SERVICE",
+            "title": "Are you sure this is goodbye?",
+            "pauseEligiibleText1": "Not sure about leaving?",
+            "pauseEligiibleText2": "for up to 3 months.",
+            "dvrAndServiceText": "Your TV service and billing will continue until the end of your regular billing cycle, regardless of the day you cancel. Any DVRs will be erased after your service ends.",
+            "continueToCancelCta": "CONTINUE TO CANCEL",
+            "packagePriceOnRestartText": "Your package price may increase if you decide to restart.",
+            "returnForRefundTextLeasedDevices": "You’re eligible to return your device(s) with serial number [[SERIAL_NUMBERS]] for a refund",
+            "contactOnProfileEmail": "If we can’t complete your request, we’ll contact you at your profile email. If it isn’t current, please update your profile today.",
+            "returnDeviceTextLeasedDevices": "You need to return all your DIRECTV devices by [[DATE]] to avoid a non-return fee of $[[AMOUNT]].",
+            "pauseEligiibleLinkLabel": "You can easily pause your account",
+            "returnDeviceText": "You need to return your device with serial number [[SERIAL_NUMBER]] to avoid a non-return fee",
+            "affirmCustomerText": "Check with Affirm for refund or amounts due on your Affirm-financed device(s).",
+            "callToCancelText": "If you still want to cancel, call us at <a href=\"tel:8005315000\">800.531.5000</a> (8AM-10PM ET every day). We can help you with any device returns, fees, or refunds."
+          },
+          "txtCancel": "Before you go, here’s what you need to know:",
+          "catchUpRecordings": {
+            "txtMainExplainCatchUpRecordings": "• Your recordings will no longer be available.",
+            "txtMainCatchUpRecordings": "• Your TV package, add-ons, and subscriptions will automatically be canceled.",
+            "txtExplainPromoRecordings": "• Any promos or credits will no longer apply.",
+            "txtExplainCatchUpRecordings": "• Your package price may increase if you decide to restart."
+          },
+          "ctaChatToCancel": "CHAT TO CANCEL",
+          "ctaKeepSubscription": "KEEP SUBSCRIPTION",
+          "ctaCancel": "CANCEL NOW",
+          "txtCancelByCall": "If you still want to cancel, call us at 800.531.5000 (M-F 8 a.m. to midnight ET). We can help you with any device returns, fees, or refunds.",
+          "txtCancelByRokuLink": "If you still want to cancel your service, please go to <a target=\"_blank\" href=\"https://my.roku.com\">my.Roku.com</a>. For more details, visit Roku’s <a target=\"_blank\" href=\"https://support.roku.com/article/208756478\"> help page.</a>",
+          "tltCancelService": "Are you sure this is goodbye?",
+          "txtRemainingBalance": "Pay off the remaining balance on your device(s)—we’ll auto-charge your payment method on [[DATE]].",
+          "txtRestart": "We thought you'd like to know that if you cancel now, you will be unable <br />To restart your account once it ends. You'll also have to:"
+        },
+        "seeReviewChangesDetailsDialog": {
+          "txtPromos": "Here’s what you can expect to pay for your monthly subscription when your current promos end. We’ll auto-charge the amount due to your payment method on the following dates. These charges don’t include taxes and surcharges.",
+          "txtInfoEDSP": "Your service will renew monthly at the then-prevailing rate unless you cancel.",
+          "ctaOK": "OK",
+          "txtMain": "We’ll auto-charge your DIRECTV subscription at the rates listed, plus taxes and fees, unless you cancel. Early Termination Fees may apply. All prices are subject to change at any time. You authorize us to charge all payments to your payment method at 7 p.m. ET on your monthly auto-charge date.",
+          "tltDialog": "Heads up...",
+          "txtMainEDSP": "We’ll auto-charge your DIRECTV subscription at the rates listed, plus taxes and fees, unless you cancel. All prices are subject to change at any time. You authorize us to charge all payments to your payment method at 7 p.m. ET on your monthly auto-charge date.",
+          "txtCancelService": "To change or cancel your service, call [[PHONE_NUMBER]]. Or go to DIRECTV.com to manage your account or chat with an agent.",
+          "txtMonthlyCharges": "Monthly auto-charges",
+          "txtInfoBBTV": "After the 24-month term commitment, your service will renew monthly at the then-prevailing rate unless you cancel.",
+          "txtCommonPhoneNumber":"<a href=\"tel:8005315000\">800.531.5000</a>",
+          "txtMDUPhoneNumber":"<a href=\"tel:8662588766\">866-258-8766</a>"
+
+        },
+        "CancelSwimlanePendingWarningDialog": {
+          "txtDialogContent": "Please cancel your pending account conversion before canceling your subscription.",
+          "ctaClose": "CLOSE"
+        },
+        "restartSubscription": {
+          "ctaCancel": "CANCEL",
+          "tltRestartSubscriptionError": "It’s not you, it’s us",
+          "tltAutoSubscription": "All set! Your subscription will auto-renew as usual.",
+          "tltLastSubscription": "Pick back up where you left off",
+          "ctaOk": "OK",
+          "ctaClose": "CLOSE",
+          "fieldDetails": {
+            "txtBasePackage": "[[BASE_PACKAGE]] base package",
+            "txtRestartNow": "If you restart now, you can keep what you have. We will auto charge your account [[AUTOPAY_AMOUNT]] to [[CARD_NAME]] ending in [[CARD_NUMBER]] on [[DATE]]",
+            "txtStreamDevices": "[[QUANTITY]] streaming devices",
+            "txtSubscriptionRenewDatePaypal": "Your subscription auto-charges on [[AUTOPAY_DATE]] at 7 p.m. ET. We'll charge [[AUTOPAY_AMOUNT]] to your PayPal account.",
+            "txtRestartNowPaypal": "If you restart now,you can keep what you have. We will auto charge your PayPal account [[AUTOPAY_AMOUNT]] on [[AUTOPAY_DATE]]",
+            "txtFieldDetailsRestartSubscriptionError": "Something went wrong, and we couldn’t complete your order. Give it some time and try again later.",
+            "txtFieldDetails": "Keep enjoying your service without missing a beat. Here’s what you had:",
+            "txtSubscriptionRenewDate": "We will auto charge your account [[AUTOPAY_AMOUNT]] to [[CARD_NAME]] ending in [[CARD_NUMBER]] on [[DATE]] at 7 p.m. ET.",
+            "txtAddOns": "[[ADD-ONS]]"
+          }
+        },
+        "cloudDvrSwitchDialog": {
+          "ctaCancel": "CANCEL",
+          "txtRemoveCloudDVRAddOn": "If you remove the Unlimited Hours of Cloud DVR add-on:",
+          "ctaContinue": "CONTINUE",
+          "txtDialogContent": "This change will be effective on [[DATE]]  when your subscription auto-renews",
+          "tltCloudDVRDowngradeWarning": "Just so you know…",
+          "txtStorageWarning": "You’ll still have 20 hours of Cloud DVR storage space included with your subscription.",
+          "txtSubscriptionRenewDate": "Your change starts [[DATE]] when your subscription renews.",
+          "txtRecordings": "You’ll lose any recordings over the 20-hour storage limit, starting with the oldest recordings first."
+        },
+        "PromotionRemovalDialog": {
+          "ctaCancel": "CANCEL",
+          "txtDialogContent": "If you remove the [[PROMOTION DETAILS ]] you'll lose your current promo(s):",
+          "tltDialog": "Just so you know...",
+          "ctaRemove": "REMOVE"
+        },
+        "PromotionDialog": {
+          "txtPromoCodeMsg": "Promo code [[PROMOCODE DETAILS]] applied!",
+          "txtEnds": "Ends",
+          "errFieldInvalid": "Sorry that code isn’t working",
+          "errMsgEmployee": "No eligible promo codes",
+          "tltPromotionDialog": " My promos & discounts ",
+          "ctaApply": "APPLY",
+          "noPromosAndDiscountMsg": "Your account doesn't have any active discounts or promotions at this time.",
+          "txtSecondLine": " DIRECTV Device for free ",
+          "txtPromotionStartsFrom":"Started on"
+        },
+        "upgradeDowngradeDialog": {
+          "txtOptimoMasSubSecondContent": "You can still catch top-rated Spanish entertainment and sports channels when you add a Spanish-language add-on to your new base package.",
+          "txtOptimoMasSubSecond": "Want to keep some of your favorites?",
+          "txtTitleForSportsPack": "Switching your Sports Pack",
+          "txtDialogGrandFathered": " If you continue to switch you'll lose the following:",
+          "ctaContinue": "CONTINUE",
+          "ctaContinueToSwitch": "CONTINUE TO SWITCH",
+          "txtQualifiedSportsPackDiscloser": "Switching to the [[PACKAGE NAME]]  package will automatically change your Sports Pack add-on’s channel lineup. If you switch now, your Sports Pack will include the following channels:",
+          "txtSportsMvpPackageDialog": "If you make this change, you will not be able to switch back to the [[displayName]] package in the future. Removing this base pack will automatically remove your streaming services.",
+          "txtGrandFatheredWarning": "We don’t offer [[pkg]] anymore. If you make this change, you won’t be able to switch back later.",
+          "txtOptimoMasSubContent": "<ul><li>Most of your Spanish-language channels aren’t available with your new TV package.</li> <li>Recordings will be deleted for shows on channels that are no longer part of your TV service.</li></ul>",
+          "txtBasePkgPremiumChannelSwimlane": "Your new package includes these premium channels. We’ll remove any related monthly charges or promos from your account when your new package starts on [[DATE]].",
+          "txtQualifiedChannels": "Click on that link <b>see what you get</b>",
+          "ctaCancel": "CANCEL",
+          "txtOptimoMasLose": "You’ll also lose:",
+          "ctaCancelBtn": "Cancel",
+          "txtBasePackagePremiumChannel": "Your new package includes these premium channels. We’ll remove any related monthly charges or promos from your account.",
+          "txtOptimoMasInfo": "We don’t offer ÓPTIMO MÁS anymore. If you make this change, you won’t be able to switch back later.",
+          "tltUpgradeDialog": "Heads up...",
+          "txtDialogSwitchToBasePackage": "If you switch to [[BASE PACKAGE]], you’ll lose these premium channels. Want to keep your Add-ons? Most will be available for purchase at the beginning of your next bill cycle.",
+          "ctaContinueBtn": "Continue",
+          "txtOptimoMasSubFirst": "Spanish channels & Cloud DVR recordings",
+          "tltDowngradeDialog": "Just so you know..."
+        },
+        "PackageRemovalWarningDialog": {
+          "ctaCancel": "CANCEL",
+          "ctacontinue": "CONTINUE",
+          "tltDialog": "Just so you know..."
+        },
+        "learnMoreSwimlaneSwitchDialog": {
+          "txtRightFutureColumnHeader": "What changes if you switch",
+          "promoMessage": {
+            "swimlaneBbtv": "<p><sub>Recordings expire after 9 months. In a series recording, max 30 episodes stored (oldest deleted first which may be in less than 9 months).</sub></p>",
+            "first": "<p>1<sub>Req’s 0% APR device installment agreement. Otherwise pay $120 upfront for device.</sub></p>",
+            "second": "<p>2<sub>Recordings expire after 90 days. In a series recording, max 30 episodes stored (oldest deleted first which may be in less than 90 days).</sub></p>"
+          },
+          "txtExplainModal": "Here’s a quick look at the differences between your TV subscription today and what will change if you switch.",
+          "txtLeftNowColumnHeader": "Your subscription today ",
+          "rows": [
+            {
+              "now": "Annual contract pricing starting at $59.99/mo. plus tax your first 12 months. Currently $93/mo. thereafter (subject to change) with 24-mo. agmt.",
+              "future": "Month-to-month pricing starting at $69.99/mo. plus tax."
+            },
+            {
+              "now": "<p>Add more DIRECTV Devices for $10/mo. each for 12 months.<sup>1</sup> You can also use your own compatible 3<sup>rd</sup>-party streaming device.</p>",
+              "future": "<p>Add DIRECTV Devices for $5/mo. each for 24 months.<sup>1</sup> You can also use your own compatible 3<sup>rd</sup>-party streaming device</p>"
+            },
+            {
+              "now": "<p>Regional Sports Fee of up to $8.49/mo. for CHOICE<sup>TM</sup> Package and above.</p>",
+              "future": "<p>Regional Sports Fee is included in monthly price for CHOICE<sup>TM</sup> Package and above.</p>"
+            },
+            {
+              "now": "<p>Unlimited hours of Cloud DVR included.<sup>2</sup></p>",
+              "future": "<p>20 hours of Cloud DVR available for no charge. Keep unlimited hours for $10/month.<sup>2</sup></p>"
+            }
+          ],
+          "tltModal": "Learn more about our new flexible packages & features"
+        },
+        "reviewUpdateProductDialog": {
+          "BOLT-DISCOVERY-202208": {
+            "addContent": {
+              "txtDisclaimer1": "By subscribing, you will receive $2.00 off the price of your monthly DIRECTV bill. If you cancel your subscription to discovery+, your $2.00 discount to your monthly bill will stop.",
+              "txtDisclaimer2": ""
+            }
+          },
+          "txtRemove": "Remove",
+          "txtRemovePeacockGA": "remove it [ADDON_NAME]",
+          "txtCancelAddPeacockGA": "cancel add [ADDON_NAME]",
+          "ctaRemoveIt": "REMOVE IT",
+          "txtDiscoveryNote": "By subscribing, you authorize DIRECTV to share your name, email address, and subscription status with discovery+ to message you about your subscription for up to 12 months after your subscription ends.",
+          "ctaClose": "CLOSE",
+          "txtDisclaimer1": "<b>PLEASE NOTE:</b> ",
+          "BOLT-HISTORY-202310": {
+            "addContent": {}
+          },
+          "txtDiscoveryContent": "<p>Discovery+ is $4.99 per month, price subject to change. By subscribing, you will receive $2.00 off the price of your monthly bill. If you cancel your subscription to discovery+, your $2.00 discount to your monthly bill will stop. By subscribing, you agree you will be charged $4.99 for discovery+ on a monthly basis to your payment option on file, until you change or cancel discovery+. May only be accessed on internet-connected HD DVR, directv.com, and the DIRECTV app. Subscription not valid for streaming using the discovery+ app or discoveryplus.com. Cancel service anytime by managing your subscription online. This offer is subject to discontinuation, change, or cancellation at any time.</p>\n",
+          "ctaContinue": "CONTINUE TO ADD",
+          "BOLT-ALLBLK-202222": {
+            "addContent": {}
+          },
+          "txtMonth": "/mo.",
+          "txtContinueAddPeacockGA": "continue to add peacock premium",
+          "BOLT-AMC-202106": {
+            "addContent": {
+              "txtDisclaimer1": "PLEASE NOTE: The AMC+ monthly subscription price is increasing to $7.99/mo. ($9.99/mo. reg. price) starting April 1, 2025. $7.99 offer price includes $2/mo. off of your video subscription.",
+              "txtDisclaimer2": "<br />By subscribing, you will receive $2.00 off the price of your monthly DIRECTV bill. If you cancel your subscription to AMC+, your $2.00 discount to your monthly bill will stop."
+            }
+          },
+          "BOLT-FOXN-202222": {
+            "addContent": {}
+          },
+          "BOLT-PEACOCKPRE-202208": {
+            "addContent": {
+              "txtDisclaimer3": "<br />We’ll send you an email to register your account directly with Peacock so you can start watching. You can only watch Peacock on the Peacock app or at <a href=\"https://www.peacocktv.com/\">peacocktv.com.</a><br /><br /> Already have Peacock Premium? You’ll need to cancel your current account to get our discounted price.",
+              "txtDisclaimer1": "PLEASE NOTE: "
+            },
+            "removeContent": {
+              "txtRemoveContent": "Once you cancel, you’ll still be able to watch Peacock until [[DATE]]. After that, you’ll no longer be able to watch and you won’t be billed for Peacock again."
+            }
+          },
+          "txtCancelRemovePeacockGA": "cancel remove peacock premium",
+          "ctaCancel": "CANCEL",
+          "txtCloseRemovePeacockGA": "close remove peacock premium",
+          "txtCloseAddPeacockGA": "close add peacock premium",
+          "ctaKeepIt": "KEEP IT",
+          "txtDollar": "$",
+          "BOLT-NETFLIXPRE-202304": {
+            "addContent": {
+              "txtDisclaimer3": "",
+              "txtDisclaimer4": "",
+              "txtDisclaimer1": "",
+              "txtDisclaimer2": ""
+            },
+            "removeContent": {
+              "txtRemoveContent": "Once you cancel, you’ll still be able to watch Netflix until [[DATE]]. After that, you’ll no longer be able to watch and you won’t be billed for Netflix again."
+            }
+          },
+          "txtContent": "$2.99 offer price includes $2/mo. off of Peacock Premium reg. price (currently $4.99/mo.). By subscribing, you will be billed $2.99/mo. (subject to change) on a recurring basis which will be charged to the payment method on file. Subscription only valid for streaming using the Peacock app and <a href=\"https://www.peacocktv.com\" target=\"_blank\">peacocktv.com</a>. You will receive separate information via email on how to register your account. Cancel service anytime by managing your DIRECTV subscription online. Existing Peacock Premium and Premium Plus subscribers will need to take additional steps to redeem; see <a href=\"https://www.peacocktv.com/help/article/directv\" target=\"_blank\">https://www.peacocktv.com/help/article/directv</a> for details.",
+          "txtTitle": "Are you sure?"
+        },
+        "TierOptionsModal": {
+          "selectPlanText": "Select your plan",
+          "termsAndConditonText": "Terms and conditions",
+          "cancelBtnText": "Cancel",
+          "changePlanText": "Change plan",
+          "yourPlanText": "Your plan",
+          "removeOptionText": "Remove plan",
+          "continueBtnText": "Continue",
+          "txtDollar":"$",
+          "txtmo": "/mo.",
+          "planFeatures" : {
+            "BOLT-NETFLIXWADS-202502": "[[Multiview]] Ad-supported\n [[Hd]] Watch in 1080p (Full HD)\n [[OndemandVideo]] Watch on 2 supported devices",
+            "BOLT-NETFLIXSTD-202502": "[[Multiview]] Ad-free\n [[Hd]] Watch in 1080p (Full HD)\n [[OndemandVideo]] Watch on 2 supported devices",
+            "BOLT-NETFLIXPRE-202304": "[[Multiview]] Ad-free\n [[FourK]] Watch in 4K (Ultra HD) + HDR\n [[OndemandVideo]] Watch on 4 supported devices\n [[SurroundSound]] Spatial audio, immersive sound"
+          },
+          "featureIcons": {
+            "[[Hd]]": "/dtvassets/global/icons/fusion/fusion_hd-content_blue900.svg",
+            "[[OndemandVideo]]": "/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg",
+            "[[CloudDownload]]": "/dtvassets/global/icons/fusion/fusion_cloud-download_blue900.svg",
+            "[[FourK]]": "/assets/content/zin1bqmdhj/svg/fusion_4k_blue900.svg",
+            "[[SurroundSound]]": "/dtvassets/global/icons/fusion/fusion_mobile-hotspot_blue900.svg",
+            "[[Multiview]]": "/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+          },
+          "disclosureText": "By selecting Continue, you agree that your subscription to Netflix auto-renews monthly at the prevailing rate and that DIRECTV will charge the provided method of payment on a monthly basis, unless you cancel your subscription online via DIRECTV.com."
+        },
+        "txtAddonVariantModal": {
+          "txtForCurrentPlan": "Your plan",
+            "txtForSelectPlan": "Select your plan",
+            "txtForChangePlan": "Change plan",
+            "txtChoosePlan": "Choose your plan",
+            "txtForAdd": "CONTINUE TO ADD",
+            "txtForCancel": "Cancel",
+            "txtRemove":"Remove",
+            "txtDollar": "$",
+            "txtmo": "/mo.",
+            "txtFor": "for",
+            "txtThen": "then",
+            "txtMos": "mos.",
+            "txtMo": "mo.",
+            "txtincluded": "Included",
+            "txtIncludedUS": "Included on us",
+            "txtForRemove": "Remove plan",
+            "txtForContinue": "Continue",
+            "txtForStartingAt": "Starting at ",
+            "termsAndConditionTitle": "Terms and conditions",
+            "planDetails": [
+              {
+                "serviceIds": ["BOLT-HBO-201610", "BOLT-HBOWADSPAID-202602", "BOLT-MAXWADSFREE-202508","BOLT-MAXWADS-202502"],
+                "txtPlanDesc": [
+                  "Some <b>HBO Max Standard</b> live channels may take a few minutes to become available on your DIRECTV TV guide. You also have access to the HBO Max app and hbomax.com",
+                  "<b>HBO Max Basic with Ads</b> is only available through the HBO Max app and at hbomax.com.",
+                  "<b>When you upgrade your HBO Max plan</b>, you'll be charged a prorated amount for the days you have the higher plan during this billing cycle.",
+                  "<b>When you remove or downgrade your HBO Max plan</b>, you'll continue to enjoy your current plan until the end of your billing cycle. Price changes will be reflected in your next bill."
+                ],
+                 "imageURL": "https://www.directv.com/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg"
+              },
+               {
+                "serviceIds": ["BOLT-AMC-202106", "BOLT-AMCWADS-202603"],
+                "txtPlanDesc": ["Stream via DIRECTV app, AMC+ app, or online at amcplus.com."],
+                 "imageURL": "https://www.directv.com/assets/content/4iypdhmv03/svg/amc-plus-optimized-logo.svg"
+              },
+              {
+                "serviceIds": ["BOLT-VIXWADSALC-202604", "BOLT-VIXADFREEALC-202604"],
+                "txtPlanDesc": ["Some of the channels in this subscription may take a few minutes to become available. May only be accessed on DIRECTV device(s), directv.com, and the DIRECTV app."],
+                 "imageURL": ""
+              },
+              {
+                "serviceIds": ["BOLT-DISNEYBASICALC-202604", "BOLT-DUOBASICALC-202604",""],
+                "txtPlanDesc": ["Some of the channels in this subscription may take a few minutes to become available. May only be accessed on DIRECTV device(s), directv.com, and the DIRECTV app."],
+                 "imageURL": ""
+              },
+              {
+                "serviceIds": ["BOLT-DISNEYADFREEALC-202604", "BOLT-DUOADFREEALC-202604"],
+                "txtPlanDesc": ["Some of the channels in this subscription may take a few minutes to become available. May only be accessed on DIRECTV device(s), directv.com, and the DIRECTV app."],
+                 "imageURL": ""
+              },
+              {
+                "serviceIds": ["BOLT-SHOWTIME-201707", "BOLT-STESSENTIALSALC-202604"],
+                "txtPlanDesc": ["<b>Paramount+ Essential</b> is available only via the Paramount+ app or online at paramountplus.com.  Sign in with TV Provider using your DIRECTV credentials.", "<b>Paramount+ with SHOWTIME</b> subscription includes access to the Paramount+ Premium app plan, Showtime channels, and on-demand on DIRECTV."],
+                "imageURL": "https://www.directv.com/assets/content/vzwtxvc7zd/svg/Paramount-plus-logo-in-circle-ECL.svg"     
+              }
+              
+
+            ],
+            "BOLT-HBO-201610": {
+              "addonDetails": [
+                {
+                  "name": "Watch with no ads",
+                  "url": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+                },
+                {
+                  "name": "Enjoy must-see series and movies",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "6 live channels",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg"
+                },
+                {
+                  "name": "HBO Max app included",
+                  "url": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "On demand titles",
+                  "url": "https://www.directv.com/assets/content/emflgjnpka/svg/ondemand-dark-icon.svg"
+                }
+              ]
+            },
+            "BOLT-HBOWADSPAID-202602": {
+              "addonDetails": [
+                {
+                  "name": "HBO Max app-only plan",
+                  "url": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "Watch with limited ads",
+                  "url": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+                },
+                {
+                  "name": "Enjoy must-see series and movies",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "Stream on 2 devices at once",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg"
+                },
+                {
+                  "name": "Full HD resolution",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_hd-content_blue900.svg"
+                }
+              ]
+            },
+            "BOLT-MAXWADS-202502":{
+              "addonDetails": [
+                {
+                  "name": "HBO Max app-only plan",
+                  "url": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "Watch with limited ads",
+                  "url": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+                },
+                {
+                  "name": "Enjoy must-see series and movies",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "Stream on 2 devices at once",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg"
+                },
+                {
+                  "name": "Full HD resolution",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_hd-content_blue900.svg"
+                }
+              ]
+            },
+            "BOLT-MAXWADSFREE-202508": {
+              "addonDetails": [
+                {
+                  "name": "HBO Max app-only plan",
+                  "url": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "Watch with limited ads",
+                  "url": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+                },
+                {
+                  "name": "Enjoy must-see series and movies",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "Stream on 2 devices at once",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg"
+                },
+                {
+                  "name": "Full HD resolution",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_hd-content_blue900.svg"
+                }
+              ]
+            },
+             "BOLT-AMC-202106": {
+              "addonDetails": [
+                {
+                  "name": "Stream without ads (limited exclusions apply)",
+                  "url": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "Includes full access to AMC+, Shudder and Sundance Now",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "AMC+ exclusives",
+                  "url": "https://www.directv.com/assets/content/ejczbh6hqk/svg/ECL-Icons-RGB-Midnight_Genre-Solid.svg"
+                },
+                {
+                  "name": "1 Live TV Channel (The Walking Dead)",
+                  "url": "https://www.directv.com/assets/content/a854rcc2ul/svg/fusion-tv-with-remote-blue900"
+                }
+              ]
+            },
+             "BOLT-AMCWADS-202603": {
+              "addonDetails": [
+                {
+                  "name": "This plan is included with MyEntertainment",
+                  "url": "https://www.directv.com/assets/content/5dxndeve0g/svg/fusion-offers-dollar-blue900.sv"
+                },
+                {
+                  "name": "Includes full access to AMC+, Shudder, and Sundance Now",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "AMC+ exclusives",
+                  "url": "https://www.directv.com/assets/content/ejczbh6hqk/svg/ECL-Icons-RGB-Midnight_Genre-Solid.svg"
+                },
+                {
+                  "name": "1 live TV channel (AMC+/The Walking Dead)",
+                  "url": "https://www.directv.com/assets/content/a854rcc2ul/svg/fusion-tv-with-remote-blue900"
+                }
+              ]
+            },
+            "BOLT-VIXWADSALC-202604": {
+              "addonDetails": [
+                {
+                  "name": "Watch with no ads",
+                  "url": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+                },
+                {
+                  "name": "Enjoy must-see series and movies",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "6 live channels",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg"
+                },
+                {
+                  "name": "VIX Premium app included",
+                  "url": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "On demand titles",
+                  "url": "https://www.directv.com/assets/content/emflgjnpka/svg/ondemand-dark-icon.svg"
+                }
+              ]
+            },
+            "BOLT-VIXADFREEALC-202604": {
+              "addonDetails": [
+                {
+                  "name": "Watch with no ads",
+                  "url": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+                },
+                {
+                  "name": "Enjoy must-see series and movies",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "6 live channels",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg"
+                },
+                {
+                  "name": "VIX Premium app included",
+                  "url": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "On demand titles",
+                  "url": "https://www.directv.com/assets/content/emflgjnpka/svg/ondemand-dark-icon.svg"
+                }
+              ]
+            },
+            "BOLT-DISNEYBASICALC-202604": {
+              "addonDetails": [
+                {
+                  "name": "Watch with no ads",
+                  "url": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+                },
+                {
+                  "name": "Enjoy must-see series and movies",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "6 live channels",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg"
+                },
+                {
+                  "name": "Disney+ app included",
+                  "url": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "On demand titles",
+                  "url": "https://www.directv.com/assets/content/emflgjnpka/svg/ondemand-dark-icon.svg"
+                }
+              ]
+            },
+            "BOLT-DUOBASICALC-202604": {
+              "addonDetails": [
+                {
+                  "name": "Watch with no ads",
+                  "url": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+                },
+                {
+                  "name": "Enjoy must-see series and movies",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "6 live channels",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg"
+                },
+                {
+                  "name": "Disney+ and Hulu app included",
+                  "url": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "On demand titles",
+                  "url": "https://www.directv.com/assets/content/emflgjnpka/svg/ondemand-dark-icon.svg"
+                }
+              ]
+            },
+            "BOLT-DISNEYADFREEALC-202604": {
+              "addonDetails": [
+                {
+                  "name": "Watch with no ads",
+                  "url": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+                },
+                {
+                  "name": "Enjoy must-see series and movies",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "6 live channels",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg"
+                },
+                {
+                  "name": "Disney+ app included",
+                  "url": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "On demand titles",
+                  "url": "https://www.directv.com/assets/content/emflgjnpka/svg/ondemand-dark-icon.svg"
+                }
+              ]
+            },
+            "BOLT-DUOADFREEALC-202604": {
+              "addonDetails": [
+                {
+                  "name": "Watch with no ads",
+                  "url": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+                },
+                {
+                  "name": "Enjoy must-see series and movies",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "6 live channels",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg"
+                },
+                {
+                  "name": "Disney+ and Hulu app included",
+                  "url": "https://www.directv.com/assets/content/rizflvzhec/svg/Tablert-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "On demand titles",
+                  "url": "https://www.directv.com/assets/content/emflgjnpka/svg/ondemand-dark-icon.svg"
+                }
+              ]
+            },
+            "BOLT-SHOWTIME-201707": {
+              "addonDetails": [
+                {
+                  "name": "Ad-free, except live content",
+                  "url": "https://www.directv.com/assets/content/kaop64sxmp/svg/fusion-check-icon-blue900.svg"
+                },
+                {
+                  "name": "SHOWTIME channels and on-demand",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                },
+                {
+                  "name": "Includes access to Paramount+ Premium plan",
+                  "url": "https://www.directv.com/dtvassets/global/icons/fusion/fusion_watch-on-tv_blue900.svg"
+                }
+              ]
+            },
+            "BOLT-STESSENTIALSALC-202604": {
+              "addonDetails": [
+                {
+                  "name": "Ad-supported",
+                  "url": "https://www.directv.com/assets/content/kaop64sxmp/svg/fusion-check-icon-blue900.svg"
+                },
+                {
+                  "name": "Stream on 3 devices at once",
+                  "url": "https://www.directv.com/assets/content/ejjxj7jk2o/svg/fusion-multiview-icon-blue900.svg"
+                },
+                {
+                  "name": "Select SHOWTIME series",
+                  "url": "https://www.directv.com/assets/content/wuq2i7rjgx/svg/Movies-Icon-Midnight-ECL-Opt-Final.svg"
+                }
+                
+              ]
+            }
+      }
+      }
+    },
+    "streamsInfo": {
+      "title": "streamsInfo",
+      "elements": {
+        "txtEnd": "Service ends",
+        "txtStart": "Charges starts"
+      }
+    },
+    "ManagePackageLanding": {
+      "title": "managePackageLanding",
+      "elements": {
+        "txtSuccsMsg": "All set! We made your changes.",
+        "txtAddSuccsMsg": "Some channels may take a few minutes to become available on your TV.",
+        "txtSvodAppliedMsg": "Check your email for info about activating your subscription.",
+        "txtGooglePlayRes": "To make changes to your subscription, open DIRECTV STREAM on your Google Play device and go to Settings > Account.",
+        "txtPauseSubscriptionUpdatedMsg": "Success! You’ve changed your service pause period to [[PERIOD]] [[MONTH]].",
+        "txtMsgDuringGracePeriod": " to avoid disconnection of your DIRECTV service on [[DISCONNECT_DATE]].",
+        "txtCancel": "Cancel pending changes",
+        "txtBackToAccountOverview": "Back to account overview",
+        "txtManageSubscription": "My TV package",
+        "txtWrnMsg": "If you remove [[PACKAGE]] you won't be able to go back.",
+        "txtBasePckgTmpMsg": "We canceled your pending change to [[NEW_PACKAGE]]. That means you’ll keep your [[CURRENT_PACKAGE]] base package.",
+        "txtRokuRes": "To make changes to your subscription, open DIRECTV on your Roku device and go to Settings > Account.",
+        "txtMsgDuringGracePeriodLossOfAccess": "  to avoid loss of access to your DIRECTV service on [[DISCONNECT_DATE]].",
+        "txtMsgSuspendPeriod": "Your service is temporarily suspended as we couldn’t process your latest payment. Please",
+        "txtFlexMsg": "Good news. Our TV packages now offer more flexibility.",
+        "txtPDISAlert": "We can’t process package or add-ons changes after you’ve requested cancellation of your account.",
+        "txtPendingPauseSubscriptionRemovedMsg": "Success! Your service pause has been removed.",
+        "tltChannel": "ATTServices",
+        "txtMultiScreen": " Multi-screen streaming ",
+        "txtHboSkinnyAccount": "Oops, looks like your information is not available. It will be made available soon.",
+        "expiryCardMsg": "Heads up! Your card expires on [[MONTH]]/[[YEAR]]. Be sure to update it as soon as possible.",
+        "txtCnlSub": "Please cancel your pending account conversion before canceling your subscription.",
+        "lnkPackageBanner": "https://tst3.directv.com/support/satellite/article/KM1354360/",
+        "txtUpdateMsgGracePeriod": "update your payment method",
+        "txtCnlPenTmpMsg": "If you cancel your pending change to [[NEW_PACKAGE]], you’ll keep [[CURRENT_PACKAGE]] base package.",
+        "txtNoContract": "No contracts. Add or remove anytime. Tax applies.",
+        "txtSubscriptions": "Subscriptions",
+        "txtPauseSubscriptionRemovedMsg": "Success! Your service pause has been removed. Your new billing date will be the [[day]][[ordinalPostFix]] of each month.",
+        "txtTryAgn": "Service cannot be processed at this time. Please try again later.",
+        "txtRcrdRes": "Data connection req'd. Recordings expire after 9 months. In a series recording, max 30 episodes stored with unlimited hours of cloud DVR and max 10 episodes stored with 20 hours of cloud DVR (oldest deleted first which may be in less than 9 months). Restr's apply",
+        "errBnrType": "error",
+        "txtSuccsMsgAppleTv": "Success! You added AppleTV+",
+        "succssBnrType": "Success",
+        "lifetimeSportsPack": "LifeTime",
+        "lblLearnMore": "Learn more",
+        "expiredCardMsg": "Heads up! Your card expired. Be sure to update it as soon as possible.",
+        "txtPlease": "Please",
+        "txtPauseSubscriptionMsg": "Prepare to pause! Your service will pause from [[START_DATE]] to [[END_DATE]]",
+        "txtFTMsg1": "Enjoy your DIRECTV free trial until [[FTEND_DATE]].",
+        "txtFTMsg2":"You can stream [[ft_addon]] after your free trial.",
+        "txtFTLearnmore": "Learn more",
+        "ftModalContent": {
+          "txtFTModalTitle": "About your DIRECTV Free trial",
+          "ftcontent1": "You can stream [[ft_addon]] after your free trial on [[FTEND_DATE]].", 
+          "ftcontent2": "You won’t be charged during your free trial.",
+          "ftcontent3": "Your account will auto-charge [[FTAUTOPAY_AMT]] + tax on [[FTAUTOPAY_DATE]] to your [[FT_CARDTYPE]] ending in [[FTCARD_NUMBER]].",
+          "txtFTbutton": "Close",
+          "txtContinueToAdd": "Continue to add",
+          "txtCancel": "Cancel"
+        }
+      }
+    },
+    "CurrentSubscriptionTile": {
+      "title": "currentSubscriptionTile",
+      "elements": {
+        "txtPromoPriceEnds": "Promo price ends [[DATE]]",
+        "txtSeeDetails": "See details",
+        "txtSwimlaneOptimoMsg": "If you want to switch to month-to-month pricing with a channel lineup similar to ÓPTIMO MÁS, the closest match is the ENTERTAINMENT package plus the Español add-on for Spanish language channels.",
+        "txtCurrentTVSubscription": " Current TV subscription",
+        "txtChargesStartAtForBre": "or on the day you activate your service on your TV",
+        "txtEmployeeDiscount": "Employee cost - $10/mo. You get the employee discount on our best package.",
+        "txtPauseMySubscription": "Pause my service",
+        "txtRemovePauseSubscription": "Remove my service pause",
+        "txtCancelSubscriptionLabel": "Cancel my service",
+        "txtChargesStartAt": "Charges start on",
+        "txtEmployeeFreeTechnology": "Free with technology Fee: $10/mo",
+        "ctaSwitchTo": "SWITCH",
+        "txtPackageSwitchedDuringPendingPausePeriod": "Prepare to pause! Your service will pause from [[START_DATE]] to [[END_DATE]]",
+        "ctaSeeDetails": "SEE DETAILS",
+        "txtimageURL": "/dtvassets/images/service/dtvn/logos/att-tv/",
+        "txtTax": "+ tax & fees",
+        "txtPng": ".png",
+        "txtAddOns": "My add-ons",
+        "lblDescriptionCompareToEspanol": "Compare to Español add-on",
+        "txtDiscountsLabel": "Discounts and promo codes",
+        "txtServiceEndsPendingGoodbye": "Your service ends [[END DATE]].",
+        "txtServiceEnds": "Your new package subscription begins [[START DATE]].",
+        "txtMo": "MO*",
+        "lblDescriptionCompareOptToEntAndEsp": "Compare ÓPTIMO MÁS to ENTERTAINMENT and Español",
+        "lblDescriptionCompareXtraToChoice": "Compare XTRA to CHOICE",
+        "txtSpecialCharacter1": "*",
+        "compareWithOptimoMas": "/dtvassets/images/service/dtvn/logos/att-tv/21Q3_DTVSt_EntOM_CLU_Dv.pdf",
+        "txtEndsService": "Ends ",
+        "txtDollar": "$",
+        "txtServiceEndsPause": "Your [[CURRENT_PACKAGE]] will switch to [[NEW_PACKAGE]] when your service pause ends.",
+        "txtMyStreamingServices": "My Streaming services",
+        "txtPausePeriodEndDate": "Service and billing will resume on [[END_DATE]].Your [[CREDIT_CARD]] ending in [[LAST_FOUR_DIGITS]] will be automatically charged $[[MONTHLY_CHARGES]] on [[AUTOPAY_DATE]].",
+        "txtSwimlaneXtraMsg": "If you want to switch to month-to-month pricing with a channel lineup similar to XTRA, the closest match is the CHOICE package.",
+        "compareWithXtra": "/dtvassets/images/service/dtvn/logos/att-tv/21Q3_DTVSt_ChoiceXtra_CLU_Dv.pdf",
+        "txtExtendPauseSubscription": "Manage my service pause",
+        "txtAboutMyService": "About my service pause",
+        "txtGoodByeTitle": "Are you sure this is goodbye?",
+        "txtGoodByeContent": "Before you go, here’s what you need to know:",
+        "txtGoodByeContent1": "<ul><li>Your TV package, add-ons, and subscriptions will automatically be canceled.</li><li>Your recordings will no longer be available.</li></ul>",
+        "txtGoodByeContent2": "If you still want to cancel your service, please go to <a target=\"_blank\" href=\"https://play.google.com/store/account/subscriptions?hl=en_US/\">GooglePlay.com.</a>",
+        "buttonText": "Got it"
+      }
+    },
+    "restartBanner": {
+      "title": "restartBanner",
+      "elements": {
+        "txtChangeMind": "Change your mind? Restarting your service is easy.",
+        "ctaRestartSubscription": "RESTART SERVICE",
+        "txtEarlyTerminationFee": "Just a reminder: That’s also when we’ll auto charge your early termination fee of  [[AMOUNT]] .",
+        "txtRestart": "We’ll miss you! But enjoy it while it lasts – you’ve still got service until [[DATE]]."
+      }
+    },
+    "rtpModal": {
+      "title": "rtpModal",
+      "elements": {
+        "cancelCta": "CANCEL",
+        "cancelSub": "<p> We're sorry to see you go. Thank you for being with us.<br> To cancel your subscription. You'll need to contact our customer service at <a href=\"tel:8662588766\">866-258-8766</a>.</p>",
+        "tltDialog": "Just so you know",
+        "chkBoxField": "By selecting this box, I acknowledge that this promotion is for a limited time.  I understand that I will be billed the prevailing price unless I cancel before the promotional period ends.",
+        "acceptCta": "ACCEPT"
+      }
+    },
+    "eddreporting": {
+      "title": "eddReporting",
+      "elements": {
+        "pageLoad": {
+          "pageId": {
+            "lblManagePackageLanding": "managePackageLanding",
+            "lblStreams": "streamsModal",
+            "lblAddOnsDetails": "addOnsDetailsModal"
+          },
+          "pageName": {
+            "lblMangePackageAddons": "Manage Package Addons Modal"
+          }
+        },
+        "flowCode": "Existing",
+        "Qualtrics": {
+          "lblChangePackage": "changePackage",
+          "lblRemovePremiumAddOn": "removePremiumAddOn",
+          "lblAddPremiumAddOn": "addPremiumAddOn",
+          "lblAddSportsAddOn": "addSportsAddOn",
+          "lblAddInternationalAddOn": "addInternationalAddOn",
+          "lblRemoveInternationalAddOn": "removeInternationalAddOn",
+          "lblRemoveSportsAddOn": "removeSportsAddOn"
+        },
+        "linkName": {
+          "lblSeeAllChannel": "See all channels_",
+          "lblSeeWhatYouget": "See what you get_",
+          "lblRemoving": "Removing_",
+          "lblRemove": "Remove_",
+          "lblAdd": "Add_",
+          "lblAdding": "Adding_"
+        },
+        "linkClick": {
+          "linkId": {
+            "lblAddRemoveCta": "addRemoveCtaOnAvailablePackageTile",
+            "lblCloseDialogOnAddOnsTile": "closeDialogOnAddOnsTile",
+            "lblcancelStreamsModal": "cancelStreamsModal",
+            "lblseeAllChannel": "seeAllChannels",
+            "lblremoveCtaButton": "removeCtaButtonOnAddOnsTile",
+            "lbladdRemoveCtaCurrentSubscription": "addRemoveCtaOnCurrentSubscriptionTile",
+            "lblSeeDetailsOnCurrentSubscription": "seeDetailsOnCurrentSubscription",
+            "lblSeeDetailsOnAddOnsTile": "seeDetailsOnAddOnsTile",
+            "lblseeMoreLinkServiceStms": "seeMoreLinkStreams",
+            "lbladdCtaButton": "addCtaButtonOnAddOnsTile"
+          },
+          "linkPosition": {
+            "lblPanelCurrentTVSub": "Panel_Current TV subscription",
+            "lblPanelAvailablePackages": "Panel_Available_Packages"
+          }
+        }
+      }
+    },
+    "nbaAutoRenewModal": {
+      "title": "nbaAutoRenewModal",
+      "elements": {
+        "noThanksCta": "NO THANKS",
+        "consentForAdding": "By selecting the Add button, you agree that your subscription will renew [annually/seasonally] at the full price.",
+        "disclosure": "Disclosure",
+        "txtMainHeadingLabel": "NBA League Pass Premium 2022-23",
+        "yesAddAutoRenewCta": "ADD",
+        "imgPath": "https://www.directv.com/dtvassets/global/logos/sports/nba_league_pass_black.svg",
+        "swimlane": {
+          "oldModalContent": "You’re currently subscribed to NBA League Pass which automatically renews for future seasons. You can keep or turn off auto renewal.",
+          "modalContent": "Out-of-market game availability is based on billing zip code. NBA, the NBA logo, and team identifications are the exclusive intellectual property of NBA Properties, Inc. and the respective member teams. ©2022 NBA Properties, Inc. All Rights Reserved",
+          "turnOffAutoRenewalModalBtn": "TURN OFF AUTO RENEWAL",
+          "keepAutoRenewalModalBtn": "KEEP AUTO RENEWAL",
+          "modalContentBoldPart": "Subscription renews monthly during the current regular season unless canceled and automatically renews each season at the then-prevailing rate (currently $19.99/mo. for 6 months) unless you opt-out of auto-renewal. Cancel or change auto-renewal preference",
+          "title": "NBA League Pass Auto Renewal"
+        },
+        "title": "NBA League Pass Premium disclaimers",
+        "txtBottom": "Subscription renews monthly during current regular season unless cancelled and automatically renews each season at the then-prevailing rate (currently $30/mo. for 6 months) unless you opt-out of auto renewal. Cancel or change auto-renewal preference anytime online at directv.com or by calling 800.531.5000. No refunds or credits for any partial-month periods or unwatched content. However, once you've cancelled, you can access NBA League Pass Premium through any remaining monthly period. Includes live, out-of-market, regular-season games only. Blackout restrictions &amp; other conditions apply. Out-of-market game availability is based on billing zip code. NBA, the NBA logo, and team identifications are the exclusive intellectual property of NBA Properties, Inc., and the respective member teams. ©2022 NBA Properties, Inc. All Rights Reserved"
+      }
+    },
+    "seasonPassModal":{
+      "txtDescriptionRemoveAutoRenewMsg3": "You are removing [displayName], There are no refunds for partial-month periods, and you will have access to [displayName] until your current billing period is done. If you change your mind, you can add it again at any time during the regular season.",
+      "disclaimers": " Disclaimers"
+    },
+    "nbaRemoveAutoRenewalModal": {
+      "title": "nbaRemoveAutoRenewalModal",
+      "elements": {
+        "gotItCta": "GOT IT.",
+        "turnOffCta": "REMOVE AUTO-RENEWAL",
+        "title1": "Remove NBA League Pass Premium",
+        "title2": "Remove Auto-renewal for NBA League Pass Premium",
+        "title3": "Remove Auto-renewal of future seasons for NBA League Pass Premium ",
+        "title": "Remove Auto-renewal for NBA League Pass Premium",
+        "txtDescriptionRemoveAutoRenewMsg": "You are opting out of auto renewal for next season. Once opted out, your current subscription will end automatically when the regular season concludes. If you change your mind, you can opt back into auto renewal at any time during the regular season..",
+        "txtDescriptionRemoveAutoRenewMsg2": "NBA League Pass 2022-23 will not be automatically added next. You need to add NBA manually when the next season starts. You may change the auto-renew option until the current season is in play",
+        "txtDescriptionRemoveAutoRenewMsg1": "You’re removing the auto-renewal for the next season. Once auto-new is turned off, you will not be able to add it back until after the 2023-24 season starts.",
+        "txtDescriptionRemoveAutoRenewMsg3": "You are removing NBA League Pass Premium. There are no refunds for partial-month periods, and you will have access to NBA League Pass Premium until your current billing period is done. If you change your mind, you can add it again at any time during the regular season.",
+        "switchOffAutoRenewInOffSeasonMsg": "You are opting out of auto renewal for next season. Once opted out, you will not be able to re-subscribe until the start of next season.",
+        "imgPath": "https://www.directv.com/dtvassets/global/channel-icons/m-n/Channel_Icon_NBA-LeaguePass.svg",
+        "swimlane": {
+          "modalContent2": "You are opting-out of auto-renewal for next season. Once opted-out, your current subscription will end automatically when the regular season concludes. If you change your mind, you can opt back in to auto-renewal at any time during the regular season.",
+          "turnOffAutoRenewalModalBtn": "TURN OFF",
+          "modalContent1": "You are opting-out of auto-renewal for next season. Once opted-out, you will not be able to re-subscribe until the start of next season.",
+          "keepAutoRenewalModalBtn": "KEEP IT",
+          "title1": "Remove NBA League Pass Premium auto renewal",
+          "title2": "Turn off Auto Renew for NBA League Pass Premium"
+        },
+        "keepItCta": "KEEP AUTO-RENEWAL"
+      }
+    },
+    "specialOfferModal": {
+      "title": "specialOfferModal",
+      "elements": {
+        "cancelCta": "CANCEL",
+        "addCta": "ADD",
+        "title": "Discount offers",
+        "txtBottomOne": "Please complete your current selection, then repeat the process to add any additional offers.",
+        "txtBottom": "You can only add one discounted premium offer at a time."
+      }
+    },
+    "rofModal": {
+      "title": "rofModal",
+      "elements": {
+        "noThanksCta": "NO THANKS",
+        "offLbl": "OFF",
+        "disclosureLbl": "Disclosure",
+        "forLbl": "FOR",
+        "monthsLbl": "MONTH",
+        "moLbl": "MO",
+        "title1": "Before you go, can we tempt you to stay with this offer?",
+        "title2": "Okay, so you weren’t into that one. Is this offer more your speed?",
+        "addOfferCta": "ADD OFFER",
+        "title3": "We’ll give it one more try. This offer is your last chance to keep DIRECTV!",
+        "taxLbl": "+tax"
+      }
+    },
+    "privacyconsentModal": {
+      "title": "privacyconsentModal",
+      "elements": {
+        "gotItCta": "GOT IT",
+        "tltDialog": "Just so you know"
+      }
+    },
+    "backupPaymentStream": {
+      "title": "backupPaymentStream",
+      "elements": {
+        "cardExpired": "To avoid any service interruptions, we’ll charge your updated payment method for the outstanding balance",
+        "paymentUpdate": "Your payment method is updated. Now, continue to watch your favorite shows, sports, and news."
+      }
+    },
+    "sportsPackAlertModal": {
+      "title": "sportsPackAlertModal",
+      "elements": {
+        "gotitCta": "GOT IT",
+        "gotItBtn": "Got it",
+        "title": "Sports Pack alert",
+        "txtBottom": "Please add the Sports pack, before changing the base package"
+      }
+    },
+    "remainingServiceCard": {
+      "title": "remainingServicesCard",
+      "elements": {
+        "txtTenant": "Your subscription is canceled. You have until [[CANCELLATION_DATE]] to enjoy your services. To restart your subscription, call 866-258-8766."
+      }
+    },
+    "managePauseSubscription": {
+      "title": "managePauseSubscription",
+      "elements": {
+        "resumeYourDirectvStreamSubscription": {
+          "subTitle": "Just so you know...",
+          "modalContent": "<Text that explains what happens if you switched to a different package, add-ons, cloud dvr etc. while in paused state.>",
+          "removeSubscriptiom": "RESUME MY SUBSCRIPTION",
+          "title": "Resume your DIRECTV subscription",
+          "keepSubscription": "KEEP MY SUBSCRIPTION PAUSED"
+        },
+        "removeSubscriptionPause": {
+          "modalContent": "If you cancel your subscription pause request before the pause start date, your subscription will continue to auto-charge on [[NEXT_BILLING_DATE]]. We’ll charge [[NEXT_BILLING_AMOUNT]] to MasterCard ending in [[CARD_LAST_DIGITS]].",
+          "removeSubscriptiom": "REMOVE MY SERVICE PAUSE",
+          "discalimer": "Yes, I understand that after my pause service period is complete, my billing and services will automatically restart. At any time, during the pause period, I can unpause my service.",
+          "resumeSubscriptionContent2": "<li>Your account will auto-charge [[NEXT_BILLING_AMOUNT]] to your [[CARD_TYPE]] ending in [[CARD_LAST_DIGITS]] on [[TODAY_DATE]]. Once your payment is successfully processed, your service will resume. Your new billing date will be the [[day]]<small>[[ordinalPostFix]]</small> of each month.</li><br /><li>Any changes you made to your TV Package or add-ons during your pause will now take effect.</li><br /><li>You’ll be able to access any DVRs you saved before your pause started.</li>",
+          "resumeSubscriptionContent1": "When you remove your service pause:",
+          "resumeSubscriptionContent4": "You understand that your contract term was extended for the length of time your account was paused.",
+          "title": "Remove my service pause",
+          "resumeSubscriptionContent3": "<li>You're removing your service pause request.</li><br/><li>Once complete, you can make changes to your TV package and add-ons.</li><br/><li> Once complete, you can order new equipment.</li>",
+          "resumeSubscriptionContent6": "You understand that the base package price guarantee for your TV services will not be extended while your account is paused.",
+          "resumeSubscriptionContent5": "You understand that any outstanding payments for device(s) financed through DIRECTV will resume when your service resumes.",
+          "keepSubscription": "CANCEL"
+        },
+        "pauseMySubscription": {
+          "extendbyTwoMonths": "Extend pause for two extra months. Your pause period will end on [[END DATE]]",
+          "isAffirmDeviceDiscalimer": "After your pause period ends, your billing and service will resume automatically. Please note, Any active device installments that are financed by affirm would not be paused.<br /> You can easily resume your service at any time.",
+          "discalimer": "After your pause period ends, your billing and service will resume automatically and your payment method on file will be charged the prevailing price at that date. Any remaining promo offer balance will also be applied to your account. You can easily resume your service at any time.",
+          "streamDiscalimer": "After your pause period ends, your billing and service will resume automatically and your payment method on file will be charged the prevailing price at that date. When the account is reactivated, remaining balances on Base Package and Premiums promotions will be applied. Pausing your account could result in the loss of other promotions or credits (e.g. Video Loyalty Credits). Please call customer service at 800.531.5000 with questions.",
+          "txtActivePgOnBg": "You understand that the base package price guarantee for your TV services will not be extended while your account is paused.",
+          "title": "Ready for a pause?",
+          "extendDisclaimer": "After your pause period ends, billing and services will automatically restart. You can unpause your service at any time.",
+          "txtTazContractTerms": "You understand that your contract term will be extended for the length of time your account is paused.",
+          "noThanksCta": "CANCEL",
+          "txtTechPlanChkBox1": "<div>After your pause period ends, billing and services will resume automatically and your payment method on file will be charged at prevailing price at that date. Any remaining promo offer balance will also be applied to your account. You can easily resume your service at any time.</div>",
+          "modalContent": "It’s easy to pause your service and billings for one, two, or three months. Your pause starts on the first day of your next billing cycle—service resumes automatically when your pause ends.",
+          "txtTechPlanChkBoxTil": "Pausing temporarily cancels DIRECTV TECH PROTECT plans ",
+          "txtTechPlanChkBox2": "<div>I understand that my DIRECTV TECH PROTECT plan will be canceled with Assurant when my pause begins, and I won’t have coverage with Assurant during my pause period. After my pause is complete, I agree to be enrolled in a new DIRECTV TECH PROTECT plan with Assurant and agree to the <a href=\"https://www.directv.com/legal/techprotecttermsandconditions/\" target=\"_blank\"> Terms and Conditions.</a></div> <u> If you don’t want to be re-enrolled in a new DIRECTV TECH PROTECT plan after your pause, you can select “REMOVE” on the DIRECTV TECH PROTECT page, and your plan will be canceled. </u>",
+          "extendMyAccountCta": "SAVE CHANGES",
+          "oneMonth": "one month",
+          "pauseMyAccountCta": "PAUSE MY SERVICE",
+          "period": "Service pause options",
+          "txtActiveInstallmentDevices": "You understand that any outstanding payments for device(s) financed through DIRECTV will be paused and will resume when your service resumes.",
+          "resumePausedSubscription": "I no longer need to pause my service",
+          "extendbyOneMonth": "Extend pause for one extra month. Your pause will end on [[END DATE]]",
+          "twoMonths": "two months",
+          "isAffirmDeviceExtendDisclaimer": "After my pause period ends, my billing and services will automatically restart. Please note, Any active device installments that are financed by affirm would not be paused. I can unpause my service at any time.",
+          "pausePeriodCta": "I’d like to pause for:",
+          "extendTitle": "Manage my pause",
+          "extendModalContent": "Your service will pause for [[DURATION]] , from [[START DATE]] to [[END DATE]]. The maximum pause period is three months.",
+          "quitPauseCta": "NEXT"
+        }
+      }
+    },
+    "netflixModal": {
+      "title": "netflixModal",
+      "elements": {
+        "ctaCancel": "CANCEL",
+        "tltError": "Let’s give that another try.",
+        "tltFailHead": "Oops! We need more time.",
+        "tltNetflix": "Recover your account or activate Netflix.",
+        "tltFail": "We’re still having technical difficulties. Please try again later today.",
+        "ctaTryAgain": "TRY AGAIN",
+        "title": "netflixModal",
+        "ctaGoToNetflix": "GO TO NETFLIX",
+        "tltErrorHead": "Oops! We hit a snag."
+      }
+    },
+    "SharedPackageInfoFusion": {
+      "title": "sharedPackageInfo",
+      "elements": {
+        "txtDelayProvisioning": "Stream [[ADDON_NAME]] after free trial ends on [[FREE_TRIAL_END_DATE]]",
+        "txtFtcUpgradeOrDowngradeMdu": "Upgrade or downgrade package on directv.com",
+        "txtFtcCancelAnytimeMdu": "Cancel anytime at 866.258.8766",
+        "seeAllLinkIndividualPkg": "https://www.directv.com/channel-lineup/modal/?channels=internet&pkg=[[package]]&zipcode=[[zipcode]]",
+        "seeAllLink": "https://www.directv.com/channel-lineup/modal/?channels=internet&cmprPkg=[[package]]&zipcode=[[zipcode]]",
+        "seeAllLinkMdu": "https://www.directv.com/channel-lineup/modal/?channels=internet&cmprPkg=[[package]]&lang=English&referrer=mdu",
+        "txtRokuDesc": "Attention Roku customers: To make changes to your subscription, open DIRECTV on your Roku device and go to Settings > Account.",
+        "ctaAdding": "Adding",
+        "youWantToAddText": "If you want to add this mini pack:",
+        "textCompareChannel": "https://www.directv.com/channel-lineup/?channels=internet&zipcode=[[zipcode]]",
+        "txtStartDatePause": "You’ve chosen the [[PACKAGE]] package to begin when your service pause ends. ",
+        "ctaAdd": "Add",
+        "txtEndDate": "Ends ",
+        "title": "Save on [[addonName]]",
+        "selectedLabel": "You've selected:",
+        "discountMessage": "Since the below SVODs are included with [[genrePackageName]], you'll get a discount on your subscription[s]:",
+        "discountDetails": "Since [[embeddedServiceName]] is included with [[genrePackageName]], you'll get a $[[discountAmount]]/mo. discount on [[addonName]]. If you cancel [[genrePackageName]], the $[[discountAmount]] discount will be removed.",
+        "continueButton": "Continue to Add",
+        "cancelButton": "Cancel",
+        "peacockPremiumAndMepPeacock": {
+          "title": "You already have [[selectedPack]] in your [[name]] selection",
+          "titleMep": "You already have [[name]] selected",
+          "titleDialogContent": "Would you like to switch to only [[name]] for $[[price]]/mo.?",
+          "titleDialogContentMep": "Would you like to switch to [[name]] for $[[price]]/mo.?",
+          "peacockContentMep":"<ul><li>You’ll continue to get [[name]]</li><li>You’ll get nine entertainment channels, select Peacock live events and On Demand channels coming soon.</li><li>It's less expensive than subscribing separately to Movies Extra Pack and Peacock Premium</li></ul>", 
+          "peacockContent": "<ul><li>You’ll only get [[name]]</li><li>You’ll lose your nine Movies Extra Pack entertainment channels</li><li>You’ll lose the savings you get from Movies Extra Pack with [[selectedPack]]</li></ul>",
+          "btnTextPrimary": "Switch to Peacock Premium",
+          "btnTextPrimaryMep": "Switch to [[name]]",
+          "btnTextSecondary": "Cancel"
+        },
+        "bundleOffer":{
+          "BOLT-MVPXPEACOCK-202506" : {
+          "btnTextPrimary": "Add [[name]]",
+          "bundleTitle": "If you like [[selectedPack]], you’ll love [[name]]",
+          "discription": "Enjoy classic favorites, documentaries, movies and short films from Sony Movies, Hallmark Family, Hallmark Mystery, Smithsonian Channel, and more with Movies Extra Pack! <br><br> Plus, with [[name]] included you will be able to stream your favorite movies in the universe, hit series, exclusive originals, live sports, next-day episodes from NBC & Bravo and more on the Peacock app or at peacocktv.com.",
+          "btnTextSecondary": "No thanks, just add [[name]]",
+          "bundleTxtMnth": "/mo.",
+          "bundleDlr": "$",
+          "logoImage": "https://directv.com/assets/content/b7jxoppxfh/svg/Channel-Icon-Peacock-MEP-100x100.svg",
+          "productDisclaimer": "Save when you add Movies Extra Pack with Peacock Premium"
+        }
+      },
+        "popUp": {
+          "stepTwo": "<b>Step 2</b>: Select <strong>Add</strong>",
+          "basePackRemovalTxt": "for the base pack you want to remove.",
+          "basePackRemoval": "<b>Step 2</b>: Select <strong>Remove</strong>",
+          "popUpButton": "Got it",
+          "basePackAddTxt": "for a new base pack.",
+          "gotIt": "Got it",
+          "popUpText2": "base pack to add the",
+          "popUpText1": "You must have the",
+          "popUpText3": "mini pack.",
+          "title": "You can’t add this mini pack",
+          "espanolErrMsg": "Your MiEspañol base pack can’t add any mini packs. If you want to add a mini pack, you’ll need to add at least one more base pack first. ",
+          "basePackRemovalTlt": "You need at least one base pack",
+          "stepOne": "<b>Step 1</b>: Select <strong>Add</strong>",
+          "basePackTxtDesc": "You need to choose another base pack before you can remove this one."
+        },
+        "txtProgramming": "Programming subject to change.",
+        "pkgTitle":"Package",
+        "catalogInfo": {
+          "STND-BRAZIL-201804": {
+            "displayOrder": "30",
+            "description": [
+              "An unmatched selection of dramas, variety shows, news, and sports from Brazil's top networks.",
+              "Enjoy drama, sports, and more you can't get from any other provider."
+            ],
+            "tabType": "International"
+          },
+          "BOLT-MYSPORTSEXTRA-202410": {
+            "channels": [
+              {
+                "name": "NFL REDZONE",
+                "url": "/dtvassets/global/channel-icons/m-n/Channel_Icon_NFL_RedZone.svg",
+                "logotxt": "NFL Redzone logo"
+              },
+              {
+                "name": "MLB STRIKEZONE",
+                "url": "/dtvassets/global/channel-icons/m-n/Channel_Icon_MLB_Strike_Zone.svg",
+                "logotxt": "MLB Strikezone logo"
+              },
+              {
+                "name": "WILLOW",
+                "url": "/dtvassets/global/channel-icons/v-z/Channel_Icon_Willow_HD.svg",
+                "logotxt": "Willow logo"
+              },
+              {
+                "name": "OUTDOOR CHANNEL",
+                "url": "/dtvassets/global/channel-icons/o-q/Channel_Icon_Outdoor.svg",
+                "logotxt": "Outdoor channel logo"
+              }
+            ]
+          },
+          "BRIDGE-ENTTOULT-202204": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Ultimate.png",
+            "css": "blue",
+            "channels": [
+              {
+                "name": "Boomerang",
+                "url": "/dtvassets/global/channel-icons/a-b/Channel_Icon_BOOMERANG.svg"
+              },
+              {
+                "name": "Starz Encore Action",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_STARZ-ENCORE-ACTION.svg"
+              },
+              {
+                "name": "TUDN",
+                "url": "/dtvassets/global/channel-icons/t-u/Channel_Icon_TUDN.svg"
+              },
+              {
+                "name": "STARZ Encore Family",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_STARZ-ENCORE-FAMILY.svg"
+              }
+            ],
+            "header": "SPORTS, NEWS, MOVIES",
+            "description": [
+              "Includes NFL RedZone from NFL Network, Outdoor Channel, MLB Strike Zone, Next Level Sports and in-market regional sports networks.",
+              "Includes SundanceTV, commercial-free movie channels, and STARZ ENCORE channels."
+            ]
+          },
+          "BOLT-HBO-201610": {
+            "image": "https://www.directv.com/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg",
+            "imageUrl": "https://www.directv.com/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg",   
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+            "BOLT-HBOWADSPAID-202602": {
+            "image": "https://www.directv.com/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg",
+            "imageUrl": "https://www.directv.com/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg",
+            "displayOrder": "16",
+            "tabType": "Premium"
+          },
+            "BOLT-STESSENTIALSALC-202604": {
+            "image": "https://www.directv.com/assets/content/5qqd8y0a15/svg/SVOD-app-logo_Paramount-plus.svg",
+            "imageUrl": "https://www.directv.com/assets/content/5qqd8y0a15/svg/SVOD-app-logo_Paramount-plus.svg",
+            "tabType": "Premium"
+          },
+          "BOLT-POKERGO-202608": {
+            "image": "https://www.directv.com/assets/content/kbmvndq4y6/svg/Channel_Icon_PokerGO.svg",
+            "imageUrl": "https://www.directv.com/assets/content/kbmvndq4y6/svg/Channel_Icon_PokerGO.svg",
+            "tabType": "Premium"
+          },
+          "BOLT-MAXWADSFREE-202508": {
+            "image": "/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg",
+            "imageUrl": "/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "STND-KOREA-201804": {
+            "displayOrder": "40",
+            "description": [
+              "Top-rated entertainment and news from Korea.",
+              "The ultimate add-on packages with the best variety of Korean programming."
+            ],
+            "tabType": "International"
+          },
+          "BOLT-DEPORTES-201802": {
+            "imageUrl": "/dtvassets/global/channel-icons/international/Channel_Icon_Deportes.svg",
+            "displayOrder": "10",
+            "tabType": "International"
+          },
+          "BOLTNOW-SHOW-201810": {
+            "image": "/dtvassets/global/channel-icons/o-q/Channel_Icon_Paramount+_wShowtime.svg",
+            "displayOrder": "50",
+            "tabType": "Premium"
+          },
+          "BOLT-NBALP-201912": {
+            "image": "/dtvassets/global/channel-icons/m-n/Channel_Icon_NBA-LeaguePass.svg",
+            "displayOrder": "10",
+            "tabType": "Sports"
+          },
+          "BOLT-MLBTV-202601": {
+            "image": "/assets/content/vhjy4fl7ck/svg/MLB-tv-channel-logo.svg",
+            "displayOrder": "10",
+            "tabType": "Premium"
+          },
+          "BOLT-LIFETIME-201910": {
+            "image": "/dtvassets/global/channel-icons/h-l/Channel_Icon_Lifetime-MovieClub.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BOLT-CURIOSITY-202505": {
+            "image": "/assets/content/qvxwdlzahg/svg/Channel_Icon_Curiosity.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BOLT-DOGTV-202505": {
+            "image": "/assets/content/uxumxzv268/svg/Channel_Icon_DogTV.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BOLT-UPFAITH-202503": {
+            "image": "/assets/content/3wjvtpxket/svg/Channel_Icon_Up-faith-and-family.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BASE-MAX-2018": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/cinemax-k.svg",
+            "displayOrder": "40",
+            "description": [
+              "Everything PLUS has, HBO Max, Cinemax, Viacom channels CMT, Paramount, TV Land and more!",
+              "Regional Sports Networks and more national sports channels like CBS Sports Network, ESPNews, ESPNU, Fox Sports 2, Golf Channel, and Olympic Channel."
+            ],
+            "tabType": "Premium"
+          },
+          "BOLT-SHOWTIME-201707": {
+            "image": "/dtvassets/global/channel-icons/o-q/Channel_Icon_Paramount+_wShowtime.svg",
+            "displayOrder": "50",
+            "tabType": "Premium"
+          },
+          "BOLT-MVPX-201910": {
+            "image": "/dtvassets/global/channel-icons/m-n/Channel_Icon_MoviesExtraPack.svg",
+            "displayOrder": "80",
+            "tabType": "Premium"
+          },
+          "BOLT-MVPXSAVE-202506": {
+            "image": "/dtvassets/global/channel-icons/m-n/Channel_Icon_MoviesExtraPack.svg",
+            "displayOrder": "80",
+            "tabType": "Premium"
+          },
+          "STANDNOW-JUPSHO-201804": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/paramountplusshowtime-k.svg",
+            "displayOrder": "50",
+            "tabType": "Premium"
+          },
+          "BOLT-SPACK2-202209": {
+            "image": "/dtvassets/sales/directv/logos/channel-logos/SportsPack.svg",
+            "tabType": "Sports"
+          },
+          "BASE-LIVEALITTLE-201610": {
+            "displayName": "Live a Little",
+            "header": "LIVEALITTLE",
+            "description": [
+              "Channels for all, including news and entertainment networks, basic sports networks, and popular broadcast channels.",
+              "A perfect and affordable package for fans of casual sports, kid-friendly entertainment, news, music, and lifestyle programming."
+            ]
+          },
+          "BRIDGE-ENTTOPREM-202204": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Premier_LogosMaxPara.svg",
+            "css": "darkBlue",
+            "channels": [
+              {
+                "name": "Cinemax",
+                "url": "/dtvassets/global/channel-icons/c-d/Channel_Icon_CINEMAX.svg"
+              },
+              {
+                "name": "MAX",
+                "url": "https://www.directv.com/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg"
+              },
+              {
+                "name": "Paramount + SHOWTIME",
+                "url": "/dtvassets/global/channel-icons/o-q/Channel_Icon_Paramount+_wShowtime.svg"
+              },
+              {
+                "name": "STARZ",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_STARZ.svg"
+              }
+            ],
+            "header": "THE ONE WITH THE MOST",
+            "description": [
+              "Includes NFL RedZone from NFL Network, Outdoor Channel, MLB Strike Zone, Next Level Sports and in-market regional sports networks.",
+              "Includes HBO, STARZ, SHOWTIME, CINEMAX, and Hallmark Movies Mysteries.","HBO Max at no extra cost!"
+            ]
+          },
+          "PROMO-EMPEPIX-202007": {
+            "image": "/dtvassets/sales/pcp/logos/epix.rgb.png",
+            "displayOrder": "20",
+            "tabType": "Premium"
+          },
+          "BOLTNOW-STZ-201810": {
+            "
+            ": "/dtvassets/sales/directv/logos/add-ons/starz-k.svg",
+            "displayOrder": "60",
+            "tabType": "Premium"
+          },
+          "BOLT-ENESPANOL-201802": {
+            "imageUrl": "/dtvassets/global/channel-icons/international/Channel_Icon_Espanol.svg",
+            "displayOrder": "20",
+            "tabType": "International"
+          },
+          "BASE-OPTIMOMAS-122018": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Optimomas.png",
+            "channels": [
+              {
+                "name": "Telemundo",
+                "url": "/dtvassets/global/channel-icons/local-channels/Channel_Icon_TELEMUNDO.svg"
+              },
+              {
+                "name": "Univision",
+                "url": "/dtvassets/global/channel-icons/local-channels/Channel_Icon_Univision.svg"
+              },
+              {
+                "name": "Unimas",
+                "url": "/dtvassets/global/channel-icons/t-u/Channel_Icon_UNIMAS.svg"
+              },
+              {
+                "name": "TUDN",
+                "url": "https://www.directv.com/dtvassets/global/channel-icons/t-u/Channel_Icon_TUDN.svg"
+              }
+            ],
+            "displayName": "OPTIMO M&Aacute;S",
+            "header": "SPORTS, NEWS, MOVIES",
+            "description": [
+              "Some of the most popular Spanish-language and English-language programming channels for the whole family, with more news, entertainment, sports, and music.",
+              "Includes movies, national sports networks, and family-friendly programming."
+            ]
+          },
+          "BASE-JUSTRIGHT-201610": {
+            "displayName": "Just Right",
+            "description": [
+              "Variety package with a wide selection of entertainment channels for the whole household.",
+              "Includes movies, Regional Sports Networks (RSNs), national sports networks, music, and family programming."
+            ]
+          },
+          "BOLT-HISTORY-202310": {
+            "image": "/dtvassets/global/channel-icons/h-l/Channel_Icon_HISTORY-Vault.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BOLT-EPIX-201907": {
+            "image": "/dtvassets/global/channel-icons/m-n/Channel_Icon_MGM-Plus.svg",
+            "displayOrder": "70",
+            "tabType": "Premium"
+          },
+          "BOLT-ALLBLK-202222": {
+            "image": "/dtvassets/global/channel-icons/a-b/Channel_Icon_ALLBLK.svg",
+            "displayOrder": "40",
+            "tabType": "Premium"
+          },
+          "BOLT-BETPLUS-202401": {
+            "image": "/dtvassets/global/channel-icons/a-b/Channel_Icon_BET%2b.svg",
+            "tabType": "Premium"
+          },
+          "BOLT-FOXN-202222": {
+            "image": "/dtvassets/global/channel-icons/e-g/Channel_Icon_FoxNation.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BOLT-KOREA-201812": {
+            "imageUrl": "/dtvassets/global/channel-icons/international/Channel_Icon_Korean.svg",
+            "tabType": "International"
+          },
+          "BASE-SPORTSMVP-202408": {
+            "seeAllLink": "https://streamtv.directv.com/channels/modal/?pkg=mysportsbeta",
+            "channels": [
+              {
+                "name": "MLB",
+                "url": "/dtvassets/global/channel-icons/m-n/Channel_Icon_MLB.svg"
+              },
+              {
+                "name": "NFLNetwork",
+                "url": "/dtvassets/global/channel-icons/m-n/Channel_Icon_NFLNetwork.svg"
+              },
+              {
+                "name": "Golf",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_Golf.svg"
+              },
+              {
+                "name": "TNT",
+                "url": "/dtvassets/global/channel-icons/t-u/Channel_Icon_TNT.svg"
+              }
+            ]
+          },
+          "BOLT-SPACK-202222": {
+            "image": "/dtvassets/sales/directv/logos/channel-logos/SportsPack.svg",
+            "displayOrder": "60",
+            "tabType": "Sports"
+          },
+          "BASE-ENTERTAINMENT-201811": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Entertainment.png",
+            "css": "lightBlue",
+            "channels": [
+              {
+                "name": "CNN",
+                "url": "/dtvassets/global/channel-icons/c-d/Channel_Icon_CNN.svg"
+              },
+              {
+                "name": "ESPN",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_ESPN.svg"
+              },
+              {
+                "name": "HGTV",
+                "url": "/dtvassets/global/channel-icons/h-l/Channel_Icon_HGTV.svg"
+              },
+              {
+                "name": "TBS",
+                "url": "/dtvassets/global/channel-icons/t-u/Channel_Icon_TBS.svg"
+              }
+            ],
+            "header": "THE ESSENTIALS",
+            "description": [
+              "Channels for all, including news and entertainment networks, basic sports networks, and popular broadcast channels.",
+              "A perfect and affordable package for fans of casual sports, kid-friendly entertainment, news, music, and lifestyle programming."
+            ]
+          },
+          "BASE-XTRA-201811": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Xtra.png",
+            "header": "XTRA",
+            "description": [
+              "Includes the best in movies, sports, music, series, documentaries, educational shows, specialty programming, and Regional Sports Networks (RSNs).",
+              "Has most of the channels from CHOICE package, plus hard-to-find favorites."
+            ]
+          },
+          "BOLT-CDVRINCL-201710": {
+            "longDescription": "<p>Record a little</p> <ul> <li> This week&apos;s game</li> <li>One season of a show</li> <li> The movie that&apos;s not on demand</li> </ul>",
+            "packageCategory": "Bolt-on",
+            "longDescriptionForSales": "Keep recordings for 90 days",
+            "displayName": "20 Hours of Cloud DVR",
+            "displayOrder": 0,
+            "description": "20 Hours of Cloud DVR",
+            "shortDescription": "20 Hours of Cloud DVR",
+            "packageType": "Bolt-on",
+            "includedWithService": false,
+            "basicService": false,
+            "expiryDate": "12-30-9999",
+            "rateType": "Retail Price",
+            "descriptionForSales": "20 Hours  <br> 90 Days expiration##Record 20 hours||Keep recordings 90 days",
+            "displayType": "included",
+            "displayNameForSales": "20 Hours of Cloud DVR",
+            "serviceId": "BOLT-CDVRINCL-201710",
+            "retailPrice": 0,
+            "planPrice": 0,
+            "status": "Active"
+          },
+          "BOLT-MYNEWS-202410": {
+            "channels": [
+              {
+                "name": "ABC",
+                "url": "/dtvassets/global/channel-icons/local-channels/Channel_Icon_ABC.svg",
+                "logotxt": "ABC logo"
+              },
+              {
+                "name": "NBC",
+                "url": "/dtvassets/global/channel-icons/m-n/Channel_Icon_NBC.svg",
+                "logotxt": "NBC logo"
+              },
+              {
+                "name": "FOX",
+                "url": "/dtvassets/global/channel-icons/local-channels/Channel_Icon_FOX.svg",
+                "logotxt": "FOX logo"
+              },
+              {
+                "name": "CBS",
+                "url": "/dtvassets/global/channel-icons/c-d/Channel_Icon_CBS.svg",
+                "logotxt": "CBS logo"
+              }
+            ]
+          },
+          "BRIDGE-ENTTOCHO-202204": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Choice.png",
+            "css": "orange",
+            "channels": [
+              {
+                "name": "Science",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_SCI.svg"
+              },
+              {
+                "name": "ESPNU",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_ESPNU.svg"
+              },
+              {
+                "name": "YES",
+                "url": "/dtvassets/global/channel-icons/v-z/Channel_Icon_YES.svg"
+              },
+              {
+                "name": "OWN",
+                "url": "/dtvassets/global/channel-icons/o-q/Channel_Icon_OWN.svg"
+              }
+            ],
+            "header": "MUST-HAVE SPORTS & MORE",
+            "description": [
+              "Includes NFL RedZone from NFL Network, Outdoor Channel, MLB Strike Zone, Next Level Sports and in-market regional sports networks.",
+              "Includes movies, Regional Sports Networks, national sports networks, music, and family programming."
+            ]
+          },
+          "BOLT-MYKIDS-202410": {
+            "channels": [
+              {
+                "name": "Disney+",
+                "url": "/dtvassets/global/channel-icons/c-d/Channel_Icon_Disneyplus.svg",
+                "logotxt": "Disney+ logo"
+              },
+              {
+                "name": "Cartoon Network",
+                "url": "/dtvassets/global/channel-icons/c-d/Channel_Icon_Cartoon-Network.svg",
+                "logotxt": "Cartoon Network logo"
+              },
+              {
+                "name": "Discovery Family",
+                "url": "/dtvassets/global/channel-icons/c-d/Channel_Icon_Discovery-Family.svg",
+                "logotxt": "Discovery Family logo"
+              },
+              {
+                "name": "Boomerang",
+                "url": "/dtvassets/global/channel-icons/a-b/Channel_Icon_BOOMERANG.svg",
+                "logotxt": "Boomerang logo"
+              }
+            ]
+          },
+          "BOLT-MYENTERTAINMENTMYNEWS-202606": {
+            "channels": [
+              {
+                "name": "Hallmark",
+                "url": "https://www.directv.com/dtvassets/global/channel-icons/h-l/Channel_Icon_HallmarkChannel.svg",
+                "logotxt": "Hallmark logo"
+              },
+              {
+                "name": "HGTV",
+                "url": "https://www.directv.com/dtvassets/global/channel-icons/h-l/Channel_Icon_HGTV.svg",
+                "logotxt": "HGTV logo"
+              },
+              {
+                "name": "FOX News",
+                "url": "https://www.directv.com/dtvassets/global/channel-icons/e-g/Channel_Icon_FoxNews.svg",
+                "logotxt": "FOX News logo"
+              },
+              {
+                "name": "FX",
+                "url": "https://www.directv.com/dtvassets/global/channel-icons/e-g/Channel_Icon_FX.svg",
+                "logotxt": "FX logo"
+              },
+              {
+                "name": "MS NOW",
+                "url": "https://www.directv.com/assets/content/zk5lbatqnn/svg/Channel-Icon-MS-Now.svg",
+                "logotxt": "MS NOW logo"
+              }
+            ]
+          },
+          "BOLT-NETFLIXPRE-202304": {
+            "image": "/dtvassets/global/channel-icons/m-n/Channel_Icon_Netflix.svg",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "BOLT-NETFLIXWADS-202502": {
+            "image": "/dtvassets/global/channel-icons/m-n/Channel_Icon_Netflix.svg",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "BOLT-NETFLIXSTD-202502": {
+            "image": "/dtvassets/global/channel-icons/m-n/Channel_Icon_Netflix.svg",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "BOLT-STARZ-201610": {
+            "image": "/dtvassets/global/channel-icons/r-s/Channel_Icon_STARZ.svg",
+            "displayOrder": "60",
+            "tabType": "Premium"
+          },
+          "BOLT-2STREAMS-201710": {
+            "longDescription": "Watch TV on any 2 devices at the same time.",
+            "packageCategory": "Bolt-on",
+            "displayOrder": 0,
+            "description": "Watch live TV on two devices at the same time - on the couch  on the go  anywhere.",
+            "packageType": "Bolt-on",
+            "includedWithService": false,
+            "basicService": false,
+            "rateType": "Retail Price",
+            "descriptionForSales": "Watch live TV on two devices at the same time - on the couch  on the go  anywhere.",
+            "displayType": "included",
+            "displayNameForSales": "2 streams",
+            "serviceId": "BOLT-2STREAMS-201710",
+            "retailPrice": 0,
+            "planPrice": 0,
+            "status": "Active"
+          },
+          "BASE-GOBIG-201610": {
+            "description": [
+              "Includes the best in movies, sports, music, series, documentaries, educational shows, specialty programming, and Regional Sports Networks (RSNs).",
+              "Has most of the channels from JUST RIGHT package, plus hard-to-find favorites."
+            ]
+          },
+          "BOLT-DISCOVERY-202208": {
+            "image": "/dtvassets/global/channel-icons/c-d/Channel_Icon_DiscoveryPlus.svg",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "BASE-PLUSWOHBO-2020": {
+            "displayName": "PLUS",
+            "header": "PLUS",
+            "description": [
+              "Watch live, on demand, or on your cloud-based DVR**. Also 23,000 videos are available On Demand!",
+              "Includes locals, sports, news, popular channels like ESPN, CNN, Fox News, Disney Jr., TNT, Hallmark Channel, Bravo, Viacom channels BET, Comedy Central, MTV, Nickelodeon."
+            ]
+          },
+          "BASE-PLUS-2018": {
+            "description": [
+              "Watch live, on demand, or on your cloud-based DVR**. Also 23,000 videos are available On Demand!",
+              "Includes HBO, locals, sports, news, popular channels like ESPN, CNN, Fox News, Disney Jr., TNT, Hallmark Channel, Bravo, Viacom channels BET, Comedy Central, MTV, Nickelodeon."
+            ]
+          },
+          "BASE-OMG-201610": {
+            "description": [
+              "An outstanding package featuring popular programming channels, Regional Sports Networks, music, national sports, and entertainment networks.",
+              "Includes SundanceTV, commercial-free movie channels, and STARZ ENCORE channels."
+            ]
+          },
+          "BRIDGE-CHOTOULT-202204": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Ultimate.png",
+            "css": "blue",
+            "channels": [
+              {
+                "name": "Boomerang",
+                "url": "/dtvassets/global/channel-icons/a-b/Channel_Icon_BOOMERANG.svg"
+              },
+              {
+                "name": "Starz Encore Action",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_STARZ-ENCORE-ACTION.svg"
+              },
+              {
+                "name": "TUDN",
+                "url": "/dtvassets/global/channel-icons/t-u/Channel_Icon_TUDN.svg"
+              },
+              {
+                "name": "STARZ Encore Family",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_STARZ-ENCORE-FAMILY.svg"
+              }
+            ],
+            "header": "SPORTS, NEWS, MOVIES",
+            "description": [
+              "Includes NFL RedZone from NFL Network, Outdoor Channel, MLB Strike Zone, Next Level Sports and in-market regional sports networks.",
+              "Includes SundanceTV, commercial-free movie channels, and STARZ ENCORE channels."
+            ]
+          },
+          "BOLT-MYESPANOL-202410": {
+            "channels": [
+              {
+                "name": "UNIVISION",
+                "url": "/dtvassets/global/channel-icons/local-channels/Channel_Icon_Univision.svg",
+                "logotxt": "Univision logo"
+              },
+              {
+                "name": "TELEMUNDO",
+                "url": "/dtvassets/global/channel-icons/local-channels/Channel_Icon_TELEMUNDO.svg",
+                "logotxt": "Telemundo logo"
+              },
+              {
+                "name": "TUDN",
+                "url": "/dtvassets/global/channel-icons/t-u/Channel_Icon_TUDN.svg",
+                "logotxt": "TUDN logo"
+              },
+              {
+                "name": "ESPN DEPORTES",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_ESPNdeportes.svg",
+                "logotxt": "ESPN deportes logo"
+              }
+            ]
+          },
+          "BASE-TODOYMAS-201802": {
+            "description": [
+              "Some of the most popular Spanish-language and English-language programming channels for the whole family, with more news, entertainment, sports, and music.",
+              "Includes movies, national sports networks, and family-friendly programming."
+            ]
+          },
+          "BOLT-MLSSP-202410": {
+            "image": "/dtvassets/global/channel-icons/a-b/Channel_Icon_Apple_MLS%20_SeasonPass.svg",
+            "tabType": "Sports"
+          },
+          "BOLT-BRAZIL-201810": {
+            "imageUrl": "/dtvassets/global/channel-icons/international/Channel_Icon_Brazilian.svg",
+            "tabType": "International"
+          },
+          "BOLT-VIETNAM-201810": {
+            "imageUrl": "/dtvassets/global/channel-icons/international/Channel_Icon_ Vietnamese.svg",
+            "tabType": "International"
+          },
+          "BOLT-HALLMARK-202310": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/Hallmark-c.svg",
+            "displayOrder": "140",
+            "tabType": "Premium"
+          },
+          "STND-VIETNAM-201804": {
+            "displayOrder": "50",
+            "description": [
+              "The hottest Vietnamese programming is available with DIRECTV.",
+              "Enjoy the best entertainment, talk shows, and more from Vietnam."
+            ],
+            "tabType": "International"
+          },
+          "BOLT-APPLETV-202501": {
+            "image": "/dtvassets/global/channel-icons/a-b/Channel_Icon_AppleTVPlus.svg",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "STANDNOW-JUPSTZ-201804": {
+            "image": "/dtvassets/sales/pcp/logos/starz.svg",
+            "displayOrder": "60",
+            "tabType": "Premium"
+          },
+          "BOLT-AECRIME-202401": {
+            "image": "/dtvassets/global/channel-icons/a-b/Channel_Icon_AE-CrimeCentral.svg",
+            "tabType": "Premium"
+          },
+          "BOLT-HBOCMX-202204": {
+            "image": "/dtvassets/global/logos/hbomax/lockups/hbomax-cinemax.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BRIDGE-CHOTOPREM-202204": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Premier_LogosMaxPara.svg",
+            "css": "darkBlue",
+            "channels": [
+              {
+                "name": "Cinemax",
+                "url": "/dtvassets/global/channel-icons/c-d/Channel_Icon_CINEMAX.svg"
+              },
+              {
+                "name": "MAX",
+                 "url": "https://www.directv.com/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg"
+              },
+              {
+                "name": "Paramount + SHOWTIME",
+                "url": "/dtvassets/global/channel-icons/o-q/Channel_Icon_Paramount+_wShowtime.svg"
+              },
+              {
+                "name": "STARZ",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_STARZ.svg"
+              }
+            ],
+            "header": "THE ONE WITH THE MOST",
+            "description": [
+              "Includes NFL RedZone from NFL Network, Outdoor Channel, MLB Strike Zone, Next Level Sports and in-market regional sports networks.",
+              "Includes HBO, STARZ, SHOWTIME, CINEMAX, and Hallmark Movies &amp; Mysteries.\",               \"HBO Max at no extra cost!"
+            ]
+          },
+          "BOLT-MYCINEMA-202410": {
+            "channels": [
+              {
+                "name": "LIFETIME MOVIE NETWORK",
+                "url": "/dtvassets/global/channel-icons/h-l/Channel_Icon_LMN.svg",
+                "logotxt": "Lifetime movie network logo"
+              },
+              {
+                "name": "HALLMARK+",
+                "url": "/dtvassets/global/channel-icons/h-l/Channel_Icon_Hallmark-MM.svg",
+                "logotxt": "Hallmark movies logo"
+              },
+              {
+                "name": "TURNER CLASSIC MOVIES",
+                "url": "/dtvassets/global/channel-icons/t-u/Channel_Icon_TCM.svg",
+                "logotxt": "Turner Classic Movies logo"
+              },
+              {
+                "name": "SHUDDER",
+                "url": "https://www.directv.com/assets/content/itggqcjw4o/svg/shudder-logo-1.svg",
+                "logotxt": "Shudder logo"
+              }
+            ]
+          },
+          "PROMO-HBOSKINNY-201703": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/hbomax-horiz-k.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BOLT-CINEMAX-201610": {
+            "image": "/dtvassets/global/channel-icons/c-d/Channel_Icon_CINEMAX.svg",
+            "displayOrder": "40",
+            "tabType": "Premium"
+          },
+          "PROMO-FREEHBO-201703": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/hbomax-horiz-k.svg",
+            "displayOrder": "10",
+            "tabType": "Premium"
+          },
+          "BOLT-MYSPORTS-202410": {
+            "channels": [
+              {
+                "name": "ESPN",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_ESPN.svg",
+                "logotxt": "ESPN logo"
+              },
+              {
+                "name": "ESPN+",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_ESPNplus.svg",
+                "logotxt": "ESPN plus logo"
+              },
+              {
+                "name": "FS1",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_FS1.svg",
+                "logotxt": "FS1 logo"
+              },
+              {
+                "name": "TNT",
+                "url": "/dtvassets/global/channel-icons/t-u/Channel_Icon_TNT.svg",
+                "logotxt": "TNT logo"
+              }
+            ]
+          },
+          "BOLT-MYSPORTSSKINNY-202601": {
+            "channels": [
+              {
+                "name": "ESPN",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_ESPN.svg",
+                "logotxt": "ESPN logo"
+              },
+              {
+                "name": "ESPN+",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_ESPNplus.svg",
+                "logotxt": "ESPN plus logo"
+              },
+              {
+                "name": "FS1",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_FS1.svg",
+                "logotxt": "FS1 logo"
+              },
+              {
+                "name": "TNT",
+                "url": "/dtvassets/global/channel-icons/t-u/Channel_Icon_TNT.svg",
+                "logotxt": "TNT logo"
+              }
+            ]
+          },
+           "BOLT-MYSPORTSMYNEWS-202602": {
+            "channels": [
+              {
+                "name": "ESPN",
+                 "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_ESPN.svg",
+                "logotxt": "ESPN logo"
+              },
+              {
+                "name": "FS1",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_FS1.svg",
+                "logotxt": "FS1 logo"
+              },
+              {
+                "name": "CNN",
+                "url": "/dtvassets/global/channel-icons/c-d/Channel_Icon_CNN.svg",
+                "logotxt": "CNN logo"
+              },
+              {
+                "name": "MS Now",
+                "url": "https://www.directv.com//assets/content/zk5lbatqnn/svg/Channel-Icon-MS-Now.svg",
+                "logotxt": "MS Now logo"
+              }
+            ]
+          },
+          "BOLT-ACORNTV-202401": {
+            "image": "/dtvassets/global/channel-icons/a-b/Channel_Icon_AcornTV.svg",
+            "displayOrder": "130",
+            "tabType": "Premium"
+          },
+          "BOLT-AMC-202106": {
+          "image": "https://www.directv.com/assets/content/4iypdhmv03/svg/amc-plus-optimized-logo.svg",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "BOLT-PEACOCKPRE-202208": {
+            "image": "/dtvassets/global/channel-icons/o-q/Channel_Icon_Peacock.svg",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "BOLT-MVPXPEACOCK-202506": {
+            "image": "/assets/content/fxpgmd3q2a/svg/movies-extra-pack-peacock-circle.svg",
+            "subTabType": "Streaming Services",
+            "tabType": "Premium"
+          },
+          "BASE-ULTIMATE-201811": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Ultimate.png",
+            "css": "blue",
+            "channels": [
+              {
+                "name": "Boomerang",
+                "url": "/dtvassets/global/channel-icons/a-b/Channel_Icon_BOOMERANG.svg"
+              },
+              {
+                "name": "Starz Encore Action",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_STARZ-ENCORE-ACTION.svg"
+              },
+              {
+                "name": "TUDN",
+                "url": "/dtvassets/global/channel-icons/t-u/Channel_Icon_TUDN.svg"
+              },
+              {
+                "name": "STARZ Encore Family",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_STARZ-ENCORE-FAMILY.svg"
+              }
+            ],
+            "header": "SPORTS, NEWS, MOVIES",
+            "description": [
+              "An outstanding package featuring popular programming channels, Regional Sports Networks, music, national sports, and entertainment networks."
+            ]
+          },
+          "BOLT-ESPNPLUS-202411": {
+            "imageUrl": "/dtvassets/global/channel-icons/e-g/Channel_Icon_ESPN.svg",
+            "tabType": "International"
+          },
+          "BOLTNOW-HBO-201810": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/hbomax-horiz-k.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "STANDNOW-JUPMAX-201804": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/cinemax-k.svg",
+            "displayOrder": "40",
+            "tabType": "Premium"
+          },
+          "BRIDGE-ULTTOPREM-202204": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Premier_LogosMaxPara.svg",
+            "channels": [
+              {
+                "name": "Cinemax",
+                "url": "/dtvassets/global/channel-icons/c-d/Channel_Icon_CINEMAX.svg"
+              },
+              {
+                "name": "MAX",
+               "url": "https://www.directv.com/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg"
+              },
+              {
+                "name": "Paramount + SHOWTIME",
+                "url": "/dtvassets/global/channel-icons/o-q/Channel_Icon_Paramount+_wShowtime.svg"
+              },
+              {
+                "name": "STARZ",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_STARZ.svg"
+              }
+            ],
+            "name": "darkBlue",
+            "header": "THE ONE WITH THE MOST",
+            "description": [
+              "Includes NFL RedZone from NFL Network, Outdoor Channel, MLB Strike Zone, Next Level Sports and in-market regional sports networks.",
+              "Includes HBO, STARZ, SHOWTIME, CINEMAX, and Hallmark Movies &amp; Mysteries.",
+              "HBO Max at no extra cost!"
+            ]
+          },
+          "BASE-PREMIER-202004": {
+            "image": "/dtvassets/buy/dtvs/logo_strips/Premier_LogosMaxPara.svg",
+            "css": "darkBlue",
+            "channels": [
+              {
+                "name": "Cinemax",
+                "url": "/dtvassets/global/channel-icons/c-d/Channel_Icon_CINEMAX.svg"
+              },
+              {
+                "name": "MAX",
+                 "url": "https://www.directv.com/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg"
+              },
+              {
+                "name": "Paramount + SHOWTIME",
+                "url": "/dtvassets/global/channel-icons/o-q/Channel_Icon_Paramount+_wShowtime.svg"
+              },
+              {
+                "name": "STARZ",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_STARZ.svg"
+              }
+            ],
+            "header": "THE ONE WITH THE MOST",
+            "description": [
+              "A top-of-the-line entertainment package.",
+              "Includes HBO, STARZ, SHOWTIME, CINEMAX, Hallmark Movies Mysteries, and SPORTS PACK channels.",
+              "HBO Max app at no extra cost!"
+            ]
+          },
+          "BOLT-MYENTERTAINMENT-202410": {
+            "channels": [
+              {
+                "name": "Disney+",
+                "url": "/dtvassets/global/channel-icons/c-d/Channel_Icon_DisneyPlus.svg",
+                "logotxt": "DisneyPlus logo"
+              },
+              {
+                "name": "Hulu",
+                "url": "/dtvassets/global/channel-icons/h-l/Channel_Icon_Hulu_2.svg",
+                "logotxt": "Hulu logo"
+              },
+              {
+               "name": "HBO MAX Standard",
+                "url": "https://www.directv.com/assets/content/5rreysqp2h/svg/Channel_Icon_HBOMax_Circle_bw_100x100.svg",
+                "logotxt": "HBO MAX Standard logo"
+              },
+              {
+                "name": "AMC+",
+                "url": "https://www.directv.com/assets/content/4iypdhmv03/svg/amc-plus-optimized-logo.svg",
+                "logotxt": "AMC+ logo"
+              }
+            ]
+          },
+          "STANDNOW-JUPHBO-201804": {
+            "image": "/dtvassets/sales/directv/logos/add-ons/hbomax-horiz-k.svg",
+            "displayOrder": "30",
+            "tabType": "Premium"
+          },
+          "BASE-CHOICE-201811": {
+            "image": "/dtvassets/service/images/BasePackageIcons/Choice.png",
+            "css": "orange",
+            "channels": [
+              {
+                "name": "Science",
+                "url": "/dtvassets/global/channel-icons/r-s/Channel_Icon_SCI.svg"
+              },
+              {
+                "name": "ESPNU",
+                "url": "/dtvassets/global/channel-icons/e-g/Channel_Icon_ESPNU.svg"
+              },
+              {
+                "name": "YES",
+                "url": "/dtvassets/global/channel-icons/v-z/Channel_Icon_YES.svg"
+              },
+              {
+                "name": "OWN",
+                "url": "/dtvassets/global/channel-icons/o-q/Channel_Icon_OWN.svg"
+              }
+            ],
+            "header": "MUST-HAVE SPORTS & MORE",
+            "description": [
+              "Variety packages with a wide selection of entertainment channels for the whole household.",
+              "Includes movies, regional sports networks, national sports networks, music, and family programming."
+            ]
+          }
+        },
+        "ctaSeeDetails": "SEE DETAILS",
+        "txtTax": "+ tax & fees",
+        "txtStartDate": "Starts ",
+        "txtSeeAll": "See all",
+        "ctaRemoving": "Removing",
+        "ctaRemove": "Remove",
+        "txtAnnualContract": "No annual contract",
+        "txtSuggestionMatch": "Suggested match",
+        "removalMiniPackModal": {
+          "gotIt": "Got it",
+          "title": "If you remove this base pack…",
+          "modalText": "Removing this base pack will automatically remove any associated mini packs or streaming services."
+        },
+        "complianceModal": {
+          "heading": "Removal cancels discount"
+        },
+        "switchBasePackModal": {
+          "titleTxt": "One Base Pack is required",
+          "titleDescTxt": "A minimum of one Base Pack is required. Switch to a Base Pack below to replace your current Base Pack.",
+          "cancelServiceTxt": "Don’t want to replace your Base Pack? You can",
+          "cancelServiceLink": "cancel your DIRECTV service.",
+          "continueBtnText": "Continue",
+          "cancelBtnText": "Cancel",
+          "JustSoYouKnowTxt": "Just so you know",
+          "activeBasePackDesc": "When you switch from [[activeBasePack]]:",
+          "activeBasePackIncludedServices": "You can still watch [[BasePackName]] channels, including [[svod]], until [[nextBillingDate]].",
+          "selectedBasePacksText": "You can start watching [[selectedBasePacks]] channels right away.",
+          "requiredBasePackText": "Want another Base Pack? One is the minimum—you can come back and add as many more Base Packs as you want.",
+          "goBackBtnText": "Go back",
+          "dropIndicatordissableText": "Your new package includes below channels. We will remove any related service at the end of the billing period.",
+          "dropIndicatorEnableText": "Your new package includes below channels.  We will remove any related monthly charges or promos from your account."
+        },
+        "MiniPackRemovalModal": {
+          "removingBasePackText": "If you remove the [[activeBasePack]] Base Pack:",
+          "includedServicesRemovalText": "You’ll remove the [[embeddedSvods]] streaming service that's included with [[basePackName]].",
+          "miniPackRemovalText": "You’ll remove the [[MiniPackName]] Mini Pack, because you’ll no longer have a required Base Pack.",
+          "endDateText": "You’ll have access to the items being removed until your next billing cycle on [[billingCycleEndDate]].",
+          "promotionalOfferWarningText": "Changes to your service may result in loss of eligibility for any associated promotional offers."
+        },
+        "seeAllLinkSpanish": "https://www.directv.com/dtvassets/sales/directv/upper_funnel/directv/spanish/DIRECTV-via-Internet-Spanish-Package-Addons.pdf",
+        "addMySelectionBtnText": "Add my selections",
+        "importantNoticeAboutPackageAddTitleTxt": "Important notice about [[packageName]]",
+        "addOneOrMoreBasePacksToEligible": "You must select one of these Base Packs to be eligible for the [[selectedPackageName]] Mini Pack:",
+        "txtMo": "/mo.",
+        "basedPackIsRequiredText": "This base pack is required:",
+        "txtFtcCancelAnytime": "Cancel anytime at directv.com.",
+        "totalOfAddBothSelectedPackageText": "Estimated total for [[selectedPackageName]] and [[requiredBasePackageName]]",
+        "txtSpecialCharacter1": "*",
+        "addBothBtnText": "Add both",
+        "ctaSelectedButton": "Selected",
+        "ctaSwitching": "SWITCHING TO",
+        "txtDollar": "$",
+        "ctaRemoved": "REMOVED",
+        "txtEndsTimer": "/dtvassets/global/icons/svg/time.svg",
+        "importantNoticeAboutPackageAddMsgTxt": "Local teams vary by market, and not all markets are served. <br /> <br />Please check which teams are <a href='http://directv.com/tools/myhome-team-rsns/' target=\"_blank\">available in your area</a> before purchasing.",
+        "txtRokuGsIapDesc": "Attention Roku customers: For any changes you want to make, please visit this <a target=\\\"_blank\\\" href=\\\"https://www.directv.com/support/article/000076294/\">FAQ</a> for more info.",
+        "ctaSwitch": "Switch",
+        "txtPrice": "/mo.",
+        "txtGenreEnds": "Ends",
+        "ctaSwitchToButton": "SWITCH",
+        "txtPriceIncludeCloudDvr": "Price includes unlimited hours of Cloud DVR for $10/mo.",
+        "continueBtnTxt": "Continue",
+        "txtPromoMonths": "for [[X]] mos.",
+        "txtThenPricing": "then $[[price]]/mo."
+      }
+    },
+    "compareFusion": {
+      "title": "compare1",
+      "elements": {
+        "lblDescription": "Compare packages"
+      }
+    },
+    "CloudDVRFusionAndAddOns": {
+      "title": "CloudDVRFusionAndAddOns",
+      "elements": {
+        "txtPromoPriceEnds": "Promo price ends [[DATE]]",
+        "ctaAdding": "Adding",
+        "txtmo": "/mo.",
+        "ctaAdd": "Add",
+        "ctaContinue":"Continue to add",
+        "ctaCancel": "Cancel",
+        "seasonTxt": "until season end",
+        "txtEndDate": "Service ends:",
+        "ownedAddOnText": "I have this",
+        "ctaSwitchTo": "SWITCH",
+        "txtEnds": "Ends",
+        "txtFor": "for",
+        "txtThen": "then",
+        "txtmos": "mos.",
+        "txtmo1": "mo.",
+        "txtTimerImageURL": "/dtvassets/global/icons/svg/time.svg",
+        "cloudDVR": {
+          "elements": {
+            "txtUnlimitedCloudDVREnds": "Unlimited hours of Cloud DVR included ends [[DATE]]",
+            "txtFyiCloudDVREDSP": "FYI: You get 20 hours of Cloud DVR storage with your DIRECTV subscription for no extra charge.",
+            "txtIncluded": "Included",
+            "txtNewMonthlyCharges": "You’re keeping this &amp; won’t lose any recordings. We’ve already included the $10 cost in your new monthly charges."
+          },
+          "title": "cloudDVR"
+        },
+        "txtimageURL": "/dtvassets/images/service/dtvn/logos/att-tv/",
+        "txtCloudImageURL": "/dtvassets/global/icons/svg/cloud.svg",
+        "txtStartDate": "Service starts",
+        "txtChargesStart": "Charges starts",
+        "txtPng": ".png",
+        "txtAcctManagement": "Manage",
+        "txtAcctRecovery": "Account recovery",
+        "txtWillEndOn": "Will end on",
+        "txtZero": "0",
+        "ctaRemoving": "Removing",
+        "ctaRemove": "Remove",
+        "addOn": {
+          "elements": {
+            "nbaRenewMsg": "Autorenew for future seasons",
+            "txtGetOffer": "Nice choice. You'll get ",
+            "txtPromoEnds": "Promo ends",
+            "txtThenPricing": "then $[[price]]/mo.",
+            "netflixWatchLink": "https://www.netflix.com",
+            "txtIncluded": "Included in promo",
+            "ctaWatchNow": "Watch",
+            "ctaRegister": "Register",
+            "ctaActivate": "Activate",
+            "txtMonthsIncluded": "MONTHS INCLUDED",
+            "vixPremiumAdsWatchLink": "https://vix.com/es-es/directv",
+            "txtPremiumChannel": "This premium channel is included in your base package. If you want to remove it, you’ll have to change your base package.",
+            "maxAdsLink": "https://auth.max.com/providers?utm_medium=email&utm_source=directv&utm_campaign=DIRECTV_Entertainment_Pack_mrtch",
+            "amcPlusWatchLink": "https://stream.directv.com/discover/network/134bd87e-19fe-42c5-9451-a3cdbe983ac2",
+            "txtIncludedBasePackage": "Included in base package",
+            "ctaSeeDetails": "See what you get",
+            "txtPauseRemoveMsg": "Service starts [[PAUSE_END_DATE]].",
+            "txtPromoMonths": "for [[X]] mos.",
+            "txtPrice": "/mo",
+            "peacockWatchLink": "https://www.peacocktv.com/watch",
+            "txtSplOffer": "SPECIAL OFFER",
+            "txtDiscountRibbon": "Discount applied",
+            "txtGenreDiscountMessage": "[[INCLUDED_SERVICE]] is included in your TV Package. Upgrade to [[OFFERED_SERVICE]] for a discounted price."
+          },
+          "title": "addOn"
+        },
+        "ctaUndo": "UNDO",
+        "txtSeeMore": "See more",
+        "ctaSelectedButton": "SELECTED",
+        "txtStarts": "Starts",
+        "ctaSwitching": "SWITCHING TO",
+        "txtEndsService": "Ends",
+        "txtDollar": "$",
+        "txtStreamImgURl": "/dtvassets/global/icons/svg/tv.svg",
+        "ctaRemoved": "REMOVED",
+        "freeTrailText":"Watch after free trial ends on [[endDateText]]",
+        "freePromoBadge": {
+          "elements": {
+            "months": "MONTHS",
+            "days": "DAYS",
+            "included": "INCLUDED",
+            "years": "YEARS"
+          }
+        },
+        "txtPrice": "/mo"
+      }
+    },
+    "CurrentSubscriptionFusionTile": {
+      "title": "CurrentSubscriptionFusionTile",
+      "elements": {
+        "txtShopAddons": "It’s lonely in here. How about some more add-ons?",
+        "txtSeeDetails": "See details",
+        "txtCurrentTVSubscription": "Current TV subscription",
+        "txtSignatureTitle":"Signature Package",
+        "txtDiscount":"$[[PRICE]]/mo. off until",
+        "appleTvWatchLink": "https://tv.apple.com/us",
+        "txtRemovePauseSubscription": "Remove my service pause",
+        "txtCancelSubscriptionLabel": "Cancel my service",
+        "txtRemovePauseSubscriptionFusion": "Remove pause",
+        "txtCancelSubscriptionLabelFusion": "Cancel service",
+        "txtChargesStartAt": "Charges start at",
+        "EspnWatchLink": "https://plus.espn.com/",
+        "peacockWatchLink": "https://www.peacocktv.com/watch",
+        "ctaSwitchTo": "SWITCH",
+        "txtPackageSwitchedDuringPendingPausePeriod": "Prepare to pause! Your service will pause from [[START_DATE]] to [[END_DATE]]",
+        "ctaSeeDetails": "SEE DETAILS",
+        "txtSeeAll": "See all",
+        "lblDescriptionCompareToEspanol": "Compare to Español add-on",
+        "txtDiscountsLabel": "See discounts and promos",
+        "txtMsgTooltip": "Enjoy Disney+ using the watch link under MyEntertainment.",
+        "txtMo": "/mo",
+         "txtTimerImage": "/dtvassets/global/icons/svg/time.svg",
+        "lblDescriptionCompareXtraToChoice": "Compare XTRA to CHOICE",
+        "txtSpecialCharacter1": "*",
+        "txtShopAddonBtn": "Shop add-ons",
+        "txtSwimlaneXtraMsg": "If you want to switch to month-to-month pricing with a channel lineup similar to XTRA, the closest match is the CHOICE package.",
+        "compareWithXtra": "/dtvassets/images/service/dtvn/logos/att-tv/21Q3_DTVSt_ChoiceXtra_CLU_Dv.pdf",
+        "txtPromoPriceEnds": "Promo price ends [[DATE]]",
+        "txtTvImageURL": "/dtvassets/global/icons/svg/tv_with_remote.svg",
+        "txtSwimlaneOptimoMsg": "If you want to switch to month-to-month pricing with a channel lineup similar to ÓPTIMO MÁS, the closest match is the ENTERTAINMENT package plus the Español add-on for Spanish language channels.",
+        "txtMoreAddons": "Awesome selections! There’s more where that came from...",
+        "duoBasicWatchLink": "https://www.disneyplus.com/",
+        "txtEmployeeDiscount": "Employee cost - $10/mo. You get the employee discount on our best package.",
+        "txtPauseMySubscription": "Pause my service",
+         "txtPauseMySubscriptionFusion": "Pause service",
+        "txtWatchEspnPlus": "Watch ESPN Unlimited",
+        "txtWatchAppleTv": "Watch Apple TV+",
+        "txtPackageTitle": "MY PACKAGE",
+        "txtEmployeeFreeTechnology": "Free with technology Fee: $10/mo",
+        "txtimageURL": "/dtvassets/images/service/dtvn/logos/att-tv/",
+        "txtTax": "+ tax & fees",
+        "txtPng": ".png",
+        "txtAddOns": "My add-ons",
+        "txtServiceEndsPendingGoodbye": "Your service ends [[END DATE]].",
+        "txtServiceEnds": "Your new package subscription begins [[START DATE]].",
+        "txtEmptyAddons": "You’re missing out on the good stuff. Try an Add-on for some new entertainment.",
+        "lblDescriptionCompareOptToEntAndEsp": "Compare ÓPTIMO MÁS to ENTERTAINMENT and Español",
+        "compareWithOptimoMas": "/dtvassets/images/service/dtvn/logos/att-tv/21Q3_DTVSt_EntOM_CLU_Dv.pdf",
+        "txtEndsService": "Ends",
+        "txtDollar": "$",
+        "txtBasePackage":"Base Pack",
+        "txtMiniPackage":"Mini Pack",
+        "txtAlsoInclude":"Also includes:",
+        "txtPromoEnds": "Promo ends",
+        "txtAddonText": "Add-on",
+        "txtServiceEndsPause": "Your [[CURRENT_PACKAGE]] will switch to [[NEW_PACKAGE]] when your service pause ends.",
+        "txtMyStreamingServices": "My Streaming services",
+        "txtPausePeriodEndDate": "Service and billing will resume on [[END_DATE]].Your [[CREDIT_CARD]] ending in [[LAST_FOUR_DIGITS]] will be automatically charged $[[MONTHLY_CHARGES]] on [[AUTOPAY_DATE]].",
+        "txtActivateEspnPlus": "Activate ESPN Unlimited",
+        "txtExtendPauseSubscription": "Manage my service pause",
+        "txtExtendPauseSubscriptionFusion": "Manage pause",
+        "txtAboutMyService": "About my service pause",
+        "txtDelayProvisioning": "Watch [[ADDON_NAME]] after free trial ends on [[FREE_TRIAL_END_DATE]]"
+      }
+    },
+    "appleMLSAutoRenewModal": {
+      "title": "appleMLSAutoRenewModal",
+      "elements": {
+        "noThanksCta": "NO THANKS",
+        "consentForAdding": "By selecting the Add button, you agree that your subscription will renew [annually/seasonally] at the full price.",
+        "disclosure": "Disclosure",
+        "yesAddBtn": "Add",
+        "noThanksBtn": "No thanks",
+        "txtMainHeadingLabel": "MLS Season Pass 2022-23",
+        "yesAddAutoRenewCta": "ADD",
+        "imgPath": "/dtvassets/global/channel-icons/a-b/Channel_Icon_Apple_MLS%20_SeasonPass.svg",
+        "swimlane": {
+          "oldModalContent": "You’re currently subscribed to MLS Season Pass which automatically renews for future seasons. You can keep or turn off auto renewal.",
+          "modalContent": "MLS Season Pass subscription required. Apple ID/login required to stream via the Apple app. Subscription renews monthly during current regular season and automatically renews each season at the then-prevailing rate (currently $14.99/mo. during the MLS regular season for up to 8 months) unless canceled or you opt-out of auto-renewal. Cancel anytime online at directv.com or by calling 877.419.8157. No refunds or credits for any partial-month periods or unwatched content. If you cancel MLS Season Pass, you can continue to access it through any remaining monthly period.",
+          "turnOffAutoRenewalModalBtn": "TURN OFF AUTO RENEWAL",
+          "keepAutoRenewalModalBtn": "KEEP AUTO RENEWAL",
+          "title": "MLS Season Pass Auto Renewal"
+        },
+        "title": "MLS Season Pass"
+      }
+    },
+    "appleMLSRemoveAutoRenewalModal": {
+      "title": "appleMLSRemoveAutoRenewalModal",
+      "elements": {
+        "gotItCta": "GOT IT.",
+        "turnOffCta": "REMOVE AUTO-RENEWAL",
+        "title1": "Remove MLS Season Pass",
+        "title2": "Remove Auto-renewal for MLS Season Pass",
+        "title3": "Remove Auto-renewal of future seasons for MLS Season Pass",
+        "title": "Remove Auto-renewal for MLS Season Pass",
+        "txtDescriptionRemoveAutoRenewMsg": "You are opting out of auto renewal for next season. Once opted out, your current subscription will end automatically when the regular season concludes. If you change your mind, you can opt back into auto renewal at any time during the regular season..",
+        "txtDescriptionRemoveAutoRenewMsg2": "MLS Season Pass 2022-23 will not be automatically added next. You need to add MLS Season Pass manually when the next season starts. You may change the auto-renew option until the current season is in play",
+        "txtDescriptionRemoveAutoRenewMsg1": "You’re removing the auto-renewal for the next season. Once auto-new is turned off, you will not be able to add it back until after the 2023-24 season starts.",
+        "txtDescriptionRemoveAutoRenewMsg3": "You are removing MLS Season Pass. There are no refunds for partial-month periods, and you will have access to MLS Season Pass until your current billing period is done. If you change your mind, you can add it again at any time during the regular season.",
+        "switchOffAutoRenewInOffSeasonMsg": "You are opting out of auto renewal for next season. Once opted out, you will not be able to re-subscribe until the start of next season.",
+        "imgPath": "/dtvassets/global/channel-icons/a-b/Channel_Icon_Apple_MLS%20_SeasonPass.svg",
+        "swimlane": {
+          "modalContent2": "You are opting-out of auto-renewal for next season. Once opted-out, your current subscription will end automatically when the regular season concludes. If you change your mind, you can opt back in to auto-renewal at any time during the regular season.",
+          "turnOffAutoRenewalModalBtn": "TURN OFF",
+          "modalContent1": "You are opting-out of auto-renewal for next season. Once opted-out, you will not be able to re-subscribe until the start of next season.",
+          "keepAutoRenewalModalBtn": "KEEP IT",
+          "title1": "Remove MLS Season Pass auto renewal",
+          "title2": "Turn off Auto Renew for MLS Season Pass"
+        },
+        "keepItCta": "KEEP AUTO-RENEWAL"
+      }
+    },
+    "CurrentSubscriptionTileGenre": {
+      "title": "currentSubscriptionGenre",
+      "elements": {
+        "txtSeeDetails": "See details",
+        "txtSeeAllLink": "See all",
+        "txtSeeDetailsLink": "https://streamtv.directv.com/streamtv/channel-pack-lineup/modal/?pkg=[[package]]",
+        "txtDiscountandPromo": "View discounts & promos",
+        "seeAllModelLink": "https://streamtv.directv.com/streamtv/channel-pack-lineup/modal/"
+      }
+    },
+    "SharedPackageGenre": {
+      "title": "SharedPackageGenre",
+      "elements": {
+        "buttonText": "Close",
+        "txtSeeDetails": "See details",
+        "seechannelstxt": "See available channels",
+        "ziptxt": "Content varies by ZIP Code",
+        "disneyCustomerID": "Disney Customer ID",
+        "disneyHelpCenter": "You may need this ID when contacting customer support. For more information about Disney+, please visit the <a target=\"_blank\" href=\"https://help.disneyplus.com/\">Disney+ Help Center</a>.",
+        "myHomeAvailableChannelLink": "https://www.directv.com/tools/myhome-team-rsns",
+        "textCompareChannel": "https://www.directv.com/channel-lineup/modal/?cmprPkg=[[package]]",
+        "myHomeSeeallink": "https://streamtv.directv.com/streamtv/channel-pack-lineup/modal?pkg=myhometeam",
+        "myHometxt": "to make sure your local teams are included.",
+        "ownedAddOnText": "I have this",
+        "tooltipWithName": {"toolTipArray": [{"serviceId":"BOLT-MYKIDS-202410","content":"Must be 18+ to subscribe to Disney+ and to activate the MyKids genre pack offer. This offer will not replace any existing Disney+ or bundle subscription you may already have. All other accounts must be managed separately. You must remain on an eligible plan to retain your offer."}]
+        },
+        "txtSeeAllLink": "https://www.directv.com/channel-pack-lineup/modal/?pkg=[[package]]",
+        "txtSeeAll": "See all"
+      }
+    },
+    "nbaAutoRenewModalFusion": {
+      "title": "nbaAutoRenewModalFusion",
+      "elements": {
+        "noThanksCta": "No Thanks",
+        "consentForAdding": "By selecting the Add button, you agree that your subscription will renew [annually/seasonally] at the full price.",
+        "disclosure": "Disclosure",
+        "txtMainHeadingLabel": "NBA League Pass Premium 2022-23",
+        "yesAddAutoRenewCta": "Add",
+        "imgPath": "/dtvassets/global/channel-icons/m-n/Channel_Icon_NBA-LeaguePass.svg",
+        "swimlane": {
+          "oldModalContent": "You’re currently subscribed to NBA League Pass which automatically renews for future seasons. You can keep or turn off auto renewal.",
+          "modalContent": "Out-of-market game availability is based on billing zip code. NBA, the NBA logo, and team identifications are the exclusive intellectual property of NBA Properties, Inc. and the respective member teams. ©2022 NBA Properties, Inc. All Rights Reserved.",
+          "turnOffAutoRenewalModalBtn": "TURN OFF AUTO RENEWAL",
+          "keepAutoRenewalModalBtn": "KEEP AUTO RENEWAL",
+          "modalContentBoldPart": "Subscription renews monthly during the current regular season unless canceled and automatically renews each season at the then-prevailing rate (currently $19.99/mo. for 6 months) unless you opt-out of auto-renewal. Cancel or change auto-renewal preference",
+          "title": "NBA League Pass Auto Renewal"
+        },
+        "title": "NBA League Pass Premium disclaimers",
+        "txtBottom": "Subscription renews monthly during current regular season unless cancelled and automatically renews each season at the then-prevailing rate (currently $30/mo. for 6 months) unless you opt-out of auto renewal. Cancel or change auto-renewal preference anytime online at DIRECTV | Call 855.796.1459 to Stream Via Internet or Satellite  or by calling 800.531.5000. No refunds or credits for any partial-month periods or unwatched content. However, once you've cancelled, you can access NBA League Pass Premium through any remaining monthly period. Includes live, out-of-market, regular-season games only. Blackout restrictions &amp; other conditions apply. Out-of-market game availability is based on billing zip code. NBA, the NBA logo, and team identifications are the exclusive intellectual property of NBA Properties, Inc., and the respective member teams. ©2022 NBA Properties, Inc. All Rights Reserved"
+      }
+    },
+    "informationSls":{
+      "title": "informationSls",
+      "elements":{
+        "title": "Compare Genre Packs and Signature Packages",
+        "backtoPackage":"Back to My TV Package",
+        "mobileBacktoPackage":"Back",
+       "linklist":{
+         "list": [
+        {
+          "mainText": "Genre Packs are new at DIRECTV. They offer the flexibility of selecting multiple packs geared to your specific interests."
+        },
+        {
+          "mainText": "Signature Packages offer a wide variety of general interest channels and lots of content for one low price."
+        }
+      ]
+    },
+     
+      "faq" : {
+        "analytics": {
+         "tag": "Accordion"
+       }, 
+       "title":"Frequently asked questions <br />Got questions? You’re not the only one! See our answers to the most common questions.",
+      "mode": "light" ,
+       "variant": "limit",
+       "limit":"3",
+       "label": [
+         {
+           "title": "Can I switch between Genre Packs and Signature Packages whenever I want??",
+           "content":"You can switch between Signature Packages and Genre Packs at any time. Just choose a new Signature Package or Genre Pack and any add-ons when you switch.Once you switch from a Signature Package to Genre Packs or vice-versa, your old selections are canceled. In addition, some switches won’t take effect until the end of your current billing cycle.",
+           "disabled": false
+         },
+         {
+           "title": "Will I lose my add-ons if I switch between Genre Packs and Signature Packages?",
+           "content": "Yes, you will lose your add-ons when switching to a Genre Pack. The same is true if you switch from a Signature Package to a Genre Pack.However, most add-ons that you can get with Genre Packs are also available with Signature Packages. Just sign up for new add-ons once you get your new Genre Pack(s) or Signature Package.",
+           "disabled": false
+         },
+         {
+           "title": "Can I use my DIRECTV set-top box or dongle with Signature Packages or Genre Packs?",
+           "content": "Yes! DIRECTV devices work great whether you have a Signature Package or Genre Packs.",
+           "disabled": false
+         },
+         {
+           "title": "How do I activate and watch streaming services?",
+           "content": "After you sign up, you’ll be sent an email with all the info you need to activate and watch your new streaming service.<br /> <br />After you activate your streaming service, you can watch on your TV, computer, or mobile device.",
+           "disabled": true
+         },
+         {
+           "title": "What will happen to my promos and discounts if I switch between Genre Packs and Signature Packages?",
+           "content": "If you switch from a Signature Package to a Genre Pack or vice versa, you’ll lose any promos or discounts you had with your former selections.",
+           "disabled": false
+         }
+       ]
+     },
+     "titleDiff1":"Genre Packs",
+     "titleDiff2":"Signature Packages",
+     "headingTlt":"At a glance",
+     "content":"A great choice if you want focused channels in the genres you watch the most.<br /> <br />Add as many Genre Packs as you want.",
+     "content1":"Want a lot of variety for one low price? Signature Packages are for you.<br /> <br />Choose one Signature Package.",
+     "price":"Price",
+     "priceContent":"Starts at $19.99/mo.",
+     "priceContent2":"Starts at $87.99/mo.",
+     "channelTitle": "Channel counts",
+     "channelContent":"9-60 channels",
+     "channel2":"per Genre Pack.",
+     "localChannel":"Local channels are available with the MyNews and MySports Genre Packs.",
+     "txtSeeAllLink": "https://www.directv.com/channel-pack-lineup/modal/",
+     "channelContent1":"85-185 channels", 
+     "channelContent2":"per Signature Package.",
+     "channelContent3" :"Local channels are included.",
+     "channelCotentLink":"Genre Packs channel lineup ",
+     "sportTitle":"Regional sports network",
+     "sportContent":"Available with the MyHome Team Mini Pack.",
+     "sportContent2":"Included in all Signature Packages except Entertainment and Optimo Màs.",
+     "streamingTitle":"Popular streaming services included (Max, ESPN+, Hulu, Disney+)",
+     "streamContent":"Most Genre Packs include at least one streaming service.",
+     "streamContent2":"Streaming services are available as individual Add-ons.",
+     "shoptCta":"Shop Genre Packs",
+     "shopCta1":"Shop Signature Packages",
+     "compareCta":"Compare channel lineups",
+     "infoTileTitle":"Get more variety—switch to a Signature Package",
+     "infoTitle1":"Get more focused content by switching to a Genre Pack",
+     "informationText":"You currently have a Genre Pack. Need a wider variety of channels? Switching to a Signature Package might be right for you.",
+     "informationText1":"Want fewer channels geared to your specific interests? Switching to a Genre Pack might be right for you.",
+     "infoPrice":"Starting at $XX.XX",
+     "infoBtn":"Learn more"
+      }
+    }
+  }
+}
